@@ -114,6 +114,7 @@
 			<div class="form">
 				<div class="note">Закажите обратный звонок,<br/>мы свяжемся с вами в течение 3 минут</div>
 				<form action="https://formspree.io/obliviusm@gmail.com" method="post" id="repair" accept-charset="utf-8">					<div class="checks">
+						<input type="hidden" name="_next" value="/thankyou.html" />
 						<span class="text">С вами удобней связаться по</span>
 						<input type="radio" checked="checked" name="type[]" value="Сайт" class="checkbox" id="checkbox1" />
 						<label for="checkbox1">Телефону</label>
@@ -142,7 +143,9 @@
 	<div class="block">
 		<h2>Вызвать мастера</h2>
 		<div class="note">Оставьте контактные данные,<br/>мы свяжемся с вами в течение 3 минут</div>
-		<form action="https://formspree.io/obliviusm@gmail.com" method="post" id="callback" accept-charset="utf-8">			<label class="input mr"><input name="name" type="text" placeholder="Ваше имя" /></label>
+		<form action="https://formspree.io/obliviusm@gmail.com" method="post" id="callback" accept-charset="utf-8">
+			<input type="hidden" name="_next" value="/thankyou.html" />
+			<label class="input mr"><input name="name" type="text" placeholder="Ваше имя" /></label>
 			<label class="input"><input name="phone" class="input_phone" type="text" placeholder="Контактный телефон" /></label>
 			<label class="submit"><input type="submit" value="Вызвать мастера" /></label>
 		</form>		<div class="phone">Также вы можете вызвать мастера,<br/>позвонив <span>8 800 200 00 56</span></div>
@@ -160,7 +163,9 @@
 	<div class="block">
 		<h2>Узнать стоимость ремонта</h2>
 		<div class="note">Оставьте контактные данные,<br/>мы свяжемся с вами в течение 3 минут</div>
-		<form action="https://formspree.io/obliviusm@gmail.com" method="post" id="cost" accept-charset="utf-8">			<label class="input mr"><input name="name" type="text" placeholder="Ваше имя" /></label>
+		<form action="https://formspree.io/obliviusm@gmail.com" method="post" id="cost" accept-charset="utf-8">
+			<input type="hidden" name="_next" value="/thankyou.html" />
+						<label class="input mr"><input name="name" type="text" placeholder="Ваше имя" /></label>
 			<label class="input"><input name="phone" class="input_phone" type="text" placeholder="Контактный телефон" /></label>
 			<label class="submit"><input type="submit" value="Узнать стоимость ремонта" /></label>
 		</form>		<div class="phone">Также вы можете вызвать мастера,<br/>позвонив <span>8 800 200 00 56</span></div>
@@ -178,7 +183,9 @@
 	<div class="block">
 		<h2>Получить консультацию</h2>
 		<div class="note">Оставьте контактные данные,<br/>мы свяжемся с вами в течение 3 минут</div>
-		<form action="https://formspree.io/obliviusm@gmail.com" method="post" id="consult" accept-charset="utf-8">			<label class="input mr"><input name="name" type="text" placeholder="Ваше имя" /></label>
+		<form action="https://formspree.io/obliviusm@gmail.com" method="post" id="consult" accept-charset="utf-8">
+			<input type="hidden" name="_next" value="/thankyou.html" />
+			<label class="input mr"><input name="name" type="text" placeholder="Ваше имя" /></label>
 			<label class="input"><input name="phone" class="input_phone" type="text" placeholder="Контактный телефон" /></label>
 			<label class="input"><textarea name="message" placeholder="Сообщение"></textarea></label>
 			<label class="submit"><input type="submit" value="Отправить" /></label>
@@ -219,6 +226,7 @@
 			<div id="index-form-box" class="index-form">
 				<div class="loader"></div>
 				<form id="index-callback" action="https://formspree.io/obliviusm@gmail.com" method="POST" accept-charset="utf-8">
+					<input type="hidden" name="_next" value="/thankyou.html" />
 					<table cellspacing="0" cellpadding="0" border="0" class="index-form">
 						<tr>
 							<td class="fld"><input type="text" name="name" value="" placeholder="Имя" /></td>
