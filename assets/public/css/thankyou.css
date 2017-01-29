@@ -1,0 +1,32 @@
+.thank-you-screen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.thank-you-screen .cnt {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  -webkit-transform: translate(-50%,-50%);
+  -moz-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+
+.thank-you-screen .cnt .close-btn {
+  padding: 18px 60px 20px 60px;
+  line-height: 1;
+  border-radius: 40px;
+  background: linear-gradient(to bottom, #f4cb56, #eca826);
+  font-weight: 600;
+  font-size: 18px;
+  color: #333333;
+  display: inline-block;
+  cursor: pointer;
+  margin-top: 30px;
+  transition: 0.3s;
+  text-decoration: none;
+}
