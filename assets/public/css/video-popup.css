@@ -1,0 +1,152 @@
+#video-popup-trigger {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  padding: 25px 20px 60px 20px;
+  background-color: #f1a03e;
+  color: #ffffff;
+  z-index: 50;
+  cursor: pointer;
+  text-align: center;
+  -webkit-transform: translateY(100%);
+  -moz-transform: translateY(100%);
+  transform: translateY(100%);
+  transition: .3s ease; }
+  #video-popup-trigger h4 {
+    font-size: 18px;
+    margin: 0px;
+    padding-bottom: 15px; }
+  #video-popup-trigger .play {
+    display: block;
+    width: 62px;
+    height: 62px;
+    margin: 0px auto;
+    border-radius: 50%;
+    background-color: #ffd86a;
+    transition: .3s ease; }
+    #video-popup-trigger .play img {
+      position: relative;
+      width: 100%;
+      height: 100%; }
+  #video-popup-trigger div.close {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 40px;
+    height: 40px;
+    z-index: 6;
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    transform: rotate(0deg);
+    transition: .3s ease; }
+    #video-popup-trigger div.close img {
+      width: 100%;
+      height: 100%; }
+    #video-popup-trigger div.close:hover {
+      -webkit-transform: rotate(90deg);
+      -moz-transform: rotate(90deg);
+      transform: rotate(90deg); }
+  #video-popup-trigger .click-zone {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    z-index: 5; }
+  #video-popup-trigger div.seen-already {
+    position: absolute;
+    left: 0px;
+    bottom: 25px;
+    width: 100%;
+    text-align: center;
+    opacity: 1;
+    transition: all .5s ease;
+    white-space: nowrap;
+    z-index: 6; }
+    #video-popup-trigger div.seen-already:hover {
+      opacity: 0.5; }
+    #video-popup-trigger div.seen-already span {
+      border-bottom: 1px #fff dotted; }
+    @media all and (min-width: 2000px) {
+      #video-popup-trigger div.seen-already {
+        bottom: 40px; } }
+  #video-popup-trigger.view {
+    -webkit-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    transform: translateY(0%); }
+  #video-popup-trigger:hover {
+    background-color: #eb8811; }
+    #video-popup-trigger:hover .play {
+      -webkit-transform: translateY(-8px);
+      -moz-transform: translateY(-8px);
+      transform: translateY(-8px); }
+      @media all and (min-width: 2000px) {
+        #video-popup-trigger:hover .play {
+          -webkit-transform: translateY(-10px);
+          -moz-transform: translateY(-10px);
+          transform: translateY(-10px); } }
+
+.popup-wnd {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 1000;
+  transition: all .5s ease-in-out;
+  -webkit-transform: translateY(-100%);
+  -moz-transform: translateY(-100%);
+  transform: translateY(-100%);
+  background-color: #f2f1f0; }
+  .popup-wnd.opened {
+    -webkit-transform: translateY(0%);
+    -moz-transform: translateY(0%);
+    transform: translateY(0%); }
+  .popup-wnd .popup-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    padding: 0px 50px; }
+    @media all and (min-width: 1280px) {
+      .popup-wnd .popup-content {
+        padding: 0px 60px; } }
+    @media all and (min-width: 1440px) {
+      .popup-wnd .popup-content {
+        padding: 0px 80px; } }
+  .popup-wnd .close-btn {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    transition: all 0.5s ease;
+    background-color: #ffd86a;
+    border-radius: 6px; }
+    .popup-wnd .close-btn img {
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      top: 50%;
+      left: 50%;
+      -webkit-transform: translate(-50%, -50%);
+      -moz-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+      transition: all 0.5s ease; }
+    .popup-wnd .close-btn:hover {
+      background-color: #ffbd04; }
+      .popup-wnd .close-btn:hover img {
+        -webkit-transform: translate(-50%, -50%) rotate(-180deg);
+        -moz-transform: translate(-50%, -50%) rotate(-180deg);
+        transform: translate(-50%, -50%) rotate(-180deg); }
+  .popup-wnd .popup-video .video-wnd {
+    position: relative; }
+    .popup-wnd .popup-video .video-wnd .video {
+      position: relative;
+      border: 1px #e3e0d2 solid;
+      overflow: hidden; }
+    .popup-wnd .popup-video .video-wnd .videoPlayer {
+      position: relative; }

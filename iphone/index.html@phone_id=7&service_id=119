@@ -1,0 +1,2489 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+	<title>Выездной сервис ремонта вашего iPhone</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link type="image/x-icon" rel="shortcut icon" href="/iphone/favicon.ico">
+	<link rel="stylesheet" href="/iphone/styles/bootstrap.min.css">
+	<script src="/iphone/scripts/jquery-1.8.0.min.js"></script>
+	<script type="text/javascript" src="/iphone/scripts/wow.min.js"></script>
+	<script type="text/javascript" src="/iphone/scripts/jquery.plugin.min.js"></script>
+	<script type="text/javascript" src="/iphone/scripts/jquery.countdown.min.js"></script>
+	<script type="text/javascript" src="/iphone/scripts/jquery.countdown-ru.js"></script>
+	<script type="text/javascript" src="/iphone/scripts/moment.js"></script>
+	<script type="text/javascript" src="/iphone/scripts/mask.js"></script>
+	<script type="text/javascript" src="/iphone/scripts/datetimepicker.js"></script>
+	<script type="text/javascript">
+		var baseurl = "/iphone/";
+		var shortly = "7106";
+	</script>
+	<script type="text/javascript" src="/iphone/scripts/script.js"></script>
+
+		<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" type="text/css" href="/iphone/styles/jquery.fancybox.css"/>
+	<link rel="stylesheet" type="text/css" href="/iphone/styles/animate.min.css">
+	<link rel="stylesheet" type="text/css" href="/iphone/styles/datetimepicker.css">
+	<link rel="stylesheet" type="text/css" href="/iphone/styles/style.css">
+	<link rel="stylesheet" type="text/css" href="/iphone/styles/media.css">
+</head>
+<body class="main">
+	<div class="container-fluid row1">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+					<a href="http://xn--80aidokfob8e.xn--p1ai/" class="logo">
+						<img src="/iphone/images/logo-v1481816048.png" alt="" />
+					</a>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3"></div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+					<p class="phone">8 800 200 00 56</p>
+					<p>Звоните нам бесплатно</p>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+					<p class="phone">+7 916 538 33 33</p>
+					<p>Пишите нам в WhatsApp</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container-fluid row2">
+		<div class="container">
+			<h4 class="text-center purple">Выездной сервис ремонта вашего iPhone </h4>
+			<div class="row">
+				<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+					<div class="wrapper">
+						<div class="model">
+							<a href="#" id="chmodel">Выбрать другую модель</a>
+							<ul class="models" id="tabs">
+																	<li><a href="/iphone/?phone_id=10-iphone-se" class="tab">iPhone SE</a></li>
+																	<li><a href="/iphone/?phone_id=12-iphone-7" class="tab">iPhone 7</a></li>
+																	<li><a href="/iphone/?phone_id=9-iphone-6s-plus" class="tab">iPhone 6S Plus</a></li>
+																	<li><a href="/iphone/?phone_id=8-iphone-6s" class="tab">iPhone 6S</a></li>
+																	<li><a href="/iphone/?phone_id=6-iphone-6-plus" class="tab">iPhone 6 Plus</a></li>
+																	<li><a href="/iphone/?phone_id=1-iphone-6" class="tab">iPhone 6</a></li>
+																	<li><a href="/iphone/?phone_id=7-iphone-5s" class="tab">iPhone 5С</a></li>
+																	<li><a href="/iphone/?phone_id=5-iphone-5s" class="tab">iPhone 5S</a></li>
+																	<li><a href="/iphone/?phone_id=4-iphone-5" class="tab">iPhone 5</a></li>
+																	<li><a href="/iphone/?phone_id=2-iphone-4s" class="tab">iPhone 4S</a></li>
+																	<li><a href="/iphone/?phone_id=3-iphone-4" class="tab">iPhone 4</a></li>
+																	<li><a href="/iphone/?phone_id=11-iphone" class="tab">IPhone</a></li>
+															</ul>
+						</div>
+						<div class="row desc">
+							<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 text-center">
+								<img src="/iphone/images/phones/50adbbc793e982fa712947eebc002c88.png" alt="iPhone 5С" />
+							</div>
+							<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+								<h3>iPhone 5С</h3>
+								<h1>Замена передней камеры</h1>
+																	<h5><span>2690 Р</span></h5>
+																									<div class="row">
+										<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+											<h1>2190 Р</h1>
+										</div>
+										<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+											<p>итоговая цена с учетом выезда мастера и запчастей</p>
+										</div>
+									</div>
+																<p class="wallet">Мы принимаем оплату как наличными, так и банковской картой. Прямо на месте, без %</p>
+							</div>
+						</div>
+					</div>	
+					<div class="row text-center">
+						<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+							<form action="/iphone/contacts" method="post" class="call">
+								<div class="text-center">
+									Оставьте заявку и наш менеджер свяжется с вами в ближайшее время
+								</div>
+								<div class="row">
+									<div class="col-sm-2 hidden-xs">
+									</div>
+									<div class="col-sm-4 col-xs-12">
+										<input type="text" class="form-control r" name="phone" id="phone" placeholder="Ваш номер телефона" />
+									</div>
+									<div class="col-sm-4 col-xs-12">
+										<button type="submit" name="submit" value="send" class="btn btn-default">Бесплатная консультация</button>
+									</div>
+									<div class="col-sm-2 hidden-xs">
+									</div>
+								</div>
+							</form>
+						</div>	
+					</div>
+				</div>
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 rcoll">
+													<div class="block" style="background-image: url(/iphone/images/advantages/ab0bcc8e1b68c9374ee1eb735ea97e39.png)">
+								<p><strong>Бесплатный выезд</strong><br />мастера в течение 1 часа в любую точку Москвы</p>							</div>
+													<div class="block" style="background-image: url(/iphone/images/advantages/334d14909892aafa6f64e2b4b84997dc.png)">
+								<p><strong>Оригинальные</strong><br />комплектующие&nbsp;высокого качества</p>							</div>
+													<div class="block" style="background-image: url(/iphone/images/advantages/f28d084591e157bb7a8926cbdad41cd7.png)">
+								<p><strong>Цены ниже</strong><br />чем в сервисных центрах</p>							</div>
+													<div class="block" style="background-image: url(/iphone/images/advantages/dce237312559e6441caff861effae9a1.jpg)">
+								<p><strong>Квалифицированный</strong><br />ремонт при вас за 20&nbsp;минут</p>							</div>
+											</div>
+							</div>
+		</div>
+	</div>
+	
+	<div class="container-fluid row_services">
+		<div class="container">
+			<div class="text-center" id="services"><h4>Выбрать другую неисправность iPhone 5С</h4></div>
+			<div class="hidden">
+				<pre>
+					array(19) {
+  ["contacts"]=>
+  object(stdClass)#4 (7) {
+    ["phone1"]=>
+    string(15) "8 800 200 00 56"
+    ["phone2"]=>
+    string(16) "+7 916 538 33 33"
+    ["skype"]=>
+    string(0) ""
+    ["icq"]=>
+    string(0) ""
+    ["city"]=>
+    string(16) "г. Москва"
+    ["address"]=>
+    string(0) ""
+    ["address_yandex"]=>
+    string(0) ""
+  }
+  ["logo"]=>
+  string(35) "/iphone/images/logo-v1481816048.png"
+  ["shortly"]=>
+  int(7106)
+  ["head_code"]=>
+  string(0) ""
+  ["body_code"]=>
+  string(1615) "<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-84407926-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+	<!-- Yandex.Metrika counter --> 
+	<script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter38622470 = new Ya.Metrika({ id:38622470, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); 
+	</script> 
+	<noscript>
+		<div><img src="https://mc.yandex.ru/watch/38622470" style="position:absolute; left:-9999px;" alt="" /></div>
+	</noscript> 
+	<!-- /Yandex.Metrika counter -->
+<script type="text/javascript" src="//consultsystems.ru/script/33545/" async charset="utf-8"></script> 
+<link rel="stylesheet" href="https://cdn.envybox.io/widget/cbk.css">
+<script type="text/javascript" src="https://cdn.envybox.io/widget/cbk.js?wcb_code=879c7c4c27c1fcf168461dac2de7a230" charset="UTF-8" async></script>"
+  ["phone"]=>
+  object(stdClass)#9 (4) {
+    ["id"]=>
+    string(1) "7"
+    ["title"]=>
+    string(10) "iPhone 5С"
+    ["alias"]=>
+    string(9) "iphone-5s"
+    ["image"]=>
+    string(58) "/iphone/images/phones/50adbbc793e982fa712947eebc002c88.png"
+  }
+  ["service"]=>
+  object(stdClass)#10 (10) {
+    ["id"]=>
+    string(3) "119"
+    ["title"]=>
+    string(42) "Замена передней камеры"
+    ["alias"]=>
+    string(22) "zamena-perednei-kamery"
+    ["old_price"]=>
+    string(4) "2690"
+    ["old_price2"]=>
+    string(4) "3690"
+    ["price"]=>
+    string(4) "2190"
+    ["gifts"]=>
+    array(2) {
+      [0]=>
+      object(stdClass)#7 (4) {
+        ["title"]=>
+        string(16) "НА ВЫБОР "
+        ["pre"]=>
+        string(28) "Чехол в подарок"
+        ["key"]=>
+        string(32) "0cb527b6b453afd2dee8c88511e6b693"
+        ["img"]=>
+        string(57) "/iphone/images/gifts/0cb527b6b453afd2dee8c88511e6b693.png"
+      }
+      [1]=>
+      object(stdClass)#8 (4) {
+        ["title"]=>
+        string(16) "НА ВЫБОР "
+        ["pre"]=>
+        string(47) "Защитное стекло в подарок"
+        ["key"]=>
+        string(32) "b7959bdd55495c14e182f8c0f0636f32"
+        ["img"]=>
+        string(57) "/iphone/images/gifts/b7959bdd55495c14e182f8c0f0636f32.png"
+      }
+    }
+    ["action"]=>
+    string(1) "2"
+    ["phone_id"]=>
+    string(1) "7"
+    ["faq"]=>
+    string(2526) "<p><strong>Почему при включении фронтальной камеры экран черный и горит надпись &ldquo;вспышка выключена, перед использованием вспышки iphone требует охлаждения&rdquo; </strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Проблема связана с неполадками контроллера вспышки на плате.&nbsp;Требуется пайка айфон, замена камеры не решит проблему.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Выезд мастера бесплатный?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Мы выезжаем абсолютно бесплатно в пределах Москвы.</p>
+<p>За выезд до 10-ти км от МКАД &ndash; мы берем отдельную плату за проезд 1000 рублей.</p>
+<p>За выезд до 20-ти км от МКАД &ndash; стоимость выезда мастера 2000 рублей.</p>
+<p>За выезд до 30-ти км от МКАД &ndash; стоимость доплаты составит 3000 рублей.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Куда мастер может приехать?</strong></p>
+<p>&nbsp;</p>
+<p>Наш мастер может приехать в любую точку Москвы в не зависимости от вашего требования. Это может быть бар, университет, парк, торговый центр. Для ремонта нам потребуется только стол, все необходимые инструменты мы возьмем с собой.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>У вас оригинальные запчасти?</strong></p>
+<p>&nbsp;</p>
+<p>Мы используем запчасти только оригинального качества. Компания Apple не выпускает запасные части для iPhone. Мы закупаем запчасти, которые выполнены по тем же стандартам, что и оригинальные. Поэтому после ремонта, вы не почувствуете разницы от оригинальной детали, а ваши устройства проживут еще очень долго.</p>"
+  }
+  ["services"]=>
+  array(12) {
+    [0]=>
+    object(stdClass)#11 (11) {
+      ["id"]=>
+      string(2) "29"
+      ["title"]=>
+      string(37) "Замена аккумулятора"
+      ["alias"]=>
+      string(20) "zamena-akkumuljatora"
+      ["old_price"]=>
+      string(4) "3300"
+      ["old_price2"]=>
+      string(4) "4300"
+      ["price"]=>
+      string(4) "2230"
+      ["gifts"]=>
+      string(570) "[{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0427\u0435\u0445\u043e\u043b \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"cbb0468ccf0ffb2e3809d7dfa7353636","img":"\/iphone\/images\/gifts\/cbb0468ccf0ffb2e3809d7dfa7353636.png"},{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0417\u0430\u0449\u0438\u0442\u043d\u043e\u0435 \u0441\u0442\u0435\u043a\u043b\u043e \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"adada58cf8958eec57bb12de23e7a554","img":"\/iphone\/images\/gifts\/adada58cf8958eec57bb12de23e7a554.png"}]"
+      ["action"]=>
+      string(1) "2"
+      ["phone_id"]=>
+      string(1) "7"
+      ["faq"]=>
+      string(4653) "<p style="text-align: center;"><strong>Сколько по времени займет замена аккумулятора?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Наши мастера имеют огромный опыт ремонта, поэтому замена дисплея займет не более 15 минут. Никаких особых условий не нужно, мастеру будет достаточно маленького столика и хорошего освещения.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>Какая гарантия на замену аккумулятора?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Гарантия на замену 2 недели, этого времени вам будет достаточно для того, что бы проверить качество аккумулятора.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>Какой фирмы аккумуляторы вы устанавливаете?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Мы используем аккумуляторы фирмы SONY. Качество этих аккумуляторов проверено годами и подтверждено нашими клиентами. С ними еще не было проблем на нашем практике.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>Какая емкость аккумулятора?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Все зависит от конкретной модели.<br /> iPhone 5 &ndash; 1440 mAh<br /> iPhone 5c &ndash; 1560 mAh<br /> iPhone 5s &ndash; 1560 mAh</p>
+<p style="text-align: center;">iPhone 6 &ndash; 1810 mAh</p>
+<p style="text-align: center;">iPhone 6+ &ndash; 2915 mAh</p>
+<p style="text-align: center;">iPhone 6s &ndash; 1715 mAh</p>
+<p style="text-align: center;">iPhone 6s+ &ndash; 2750 mAh<br /> Данную мощность советует производитель.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>Какой ресурс у аккумуляторов?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">От 6-ти месяцев до 1 года, все зависит от эксплуатации. Что бы аккумулятор жил дольше необходимо перестать заряжать устройство в автомобиле и раз в 6 месяцев производить профилактическую чистку комплектующих смартфона.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>Что делать если айфон садится на морозе.</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Дело в том, что аккумуляторы на айфон не рассчитаны на большие перепады температур. Если iphone садиться на морозе, скорее всего срок жизни вашего аккумулятора подходит к концу, и ему становится сложнее держать заряд в экстремальных ситуациях и требуется его замена.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>Что делать, если я поменял аккумулятор, а телефон все равно быстро садится.</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Причина заключается в том, что замена аккумулятора является только 1 шагом на пути к решению проблемы. Если после замены аккумулятора iphone все равно теряет заряд, тогда придется продиагностировать разъем зарядки и контроллера питания.</p>
+<p style="text-align: center;">&nbsp;</p>"
+      ["link"]=>
+      string(33) "/iphone/?phone_id=7&service_id=29"
+    }
+    [1]=>
+    object(stdClass)#12 (11) {
+      ["id"]=>
+      string(1) "5"
+      ["title"]=>
+      string(27) "Замена дисплея"
+      ["alias"]=>
+      string(15) "zamena-displeja"
+      ["old_price"]=>
+      string(4) "4450"
+      ["old_price2"]=>
+      string(4) "5450"
+      ["price"]=>
+      string(4) "3540"
+      ["gifts"]=>
+      string(570) "[{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0427\u0435\u0445\u043e\u043b \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"6c94b84ff72055f301b3c50edfa9237c","img":"\/iphone\/images\/gifts\/6c94b84ff72055f301b3c50edfa9237c.png"},{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0417\u0430\u0449\u0438\u0442\u043d\u043e\u0435 \u0441\u0442\u0435\u043a\u043b\u043e \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"68a6f52e5155db2632f95ac5e9f4193a","img":"\/iphone\/images\/gifts\/68a6f52e5155db2632f95ac5e9f4193a.png"}]"
+      ["action"]=>
+      string(1) "2"
+      ["phone_id"]=>
+      string(1) "7"
+      ["faq"]=>
+      string(3806) "<p style="text-align: center;"><strong>Какие дисплеи вы устанавливаете оригинальные или неоригинальные.</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Мы используем запчасти только оригинального качества, выполненные по той же технологии и с использованием тех же материалов, что и оригинальные. Компания Apple не производит запчасти для замены, а только полноценный продукт.&nbsp;&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>Сколько действует гарантия?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Гарантия на дисплей действует 1 месяц. Этого времени будет достаточно, что бы проверить качество детали.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>Сколько времени занимает замена дисплея?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Наши мастера имеют огромный опыт ремонта, поэтому замена дисплея займет не более 17 минут. Никаких особых условий не нужно, мастеру будет достаточно маленького столика и хорошего освещения.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>Подклеиваем ли мы дисплеи?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Если у вас отклеилось стекло на iPhone, то скорее всего у вас деформирован корпус, либо установлена неоригинальная деталь. Если стекло подклеить, оно 100% отклеится снова. Поэтому в таких случаях мы рекомендуем заменить дисплей на новый.</p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>Могу ли я сам купить деталь для замены?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">К сожалению нет. Мы несем полную ответственность за качество устанавливаемых деталей и за произведенный ремонт. При установке вашей детали, мы не сможем дать никаких гарантий.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>Отличается ли цветопередача вашей запчасти от оригинального дисплея?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Нет, мы используем запчасти выполненные по той же технологии, что и оригинальный дисплей. Поэтому когда мы поменяем деталь на новую, вы не почувствуете никакой разницы между оригинальной запчастью.</p>"
+      ["link"]=>
+      string(32) "/iphone/?phone_id=7&service_id=5"
+    }
+    [2]=>
+    object(stdClass)#13 (11) {
+      ["id"]=>
+      string(2) "54"
+      ["title"]=>
+      string(30) "Замена кнопки Home"
+      ["alias"]=>
+      string(18) "zamena-knopki-home"
+      ["old_price"]=>
+      string(4) "2700"
+      ["old_price2"]=>
+      string(4) "3700"
+      ["price"]=>
+      string(4) "2200"
+      ["gifts"]=>
+      string(570) "[{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0427\u0435\u0445\u043e\u043b \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"8d1c55f063801a001d6bdfb0f676d316","img":"\/iphone\/images\/gifts\/8d1c55f063801a001d6bdfb0f676d316.png"},{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0417\u0430\u0449\u0438\u0442\u043d\u043e\u0435 \u0441\u0442\u0435\u043a\u043b\u043e \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"5fb4220057968391e8fd5d5144a547cc","img":"\/iphone\/images\/gifts\/5fb4220057968391e8fd5d5144a547cc.png"}]"
+      ["action"]=>
+      string(1) "2"
+      ["phone_id"]=>
+      string(1) "7"
+      ["faq"]=>
+      string(2758) "<p style="text-align: center;"><strong>Сколько времени занимает замена кнопки Home?</strong></p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;">Наши мастера имеют огромный опыт ремонта. Поэтому замена кнопки Хоме, занимает у них не более 20 минут.</p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p><strong>Выезд мастера бесплатный?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Мы выезжаем абсолютно бесплатно в пределах Москвы.</p>
+<p>За выезд до 10-ти км от МКАД &ndash; мы берем отдельную плату за проезд 1000 рублей.</p>
+<p>За выезд до 20-ти км от МКАД &ndash; стоимость выезда мастера 2000 рублей.</p>
+<p>За выезд до 30-ти км от МКАД &ndash; стоимость доплаты составит 3000 рублей.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>Куда мастер может приехать?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Наш мастер может приехать в любую точку Москвы в не зависимости от вашего требования. Это может быть бар, университет, парк, торговый центр. Для ремонта нам потребуется только стол, все необходимые инструменты мы возьмем с собой.</p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>У вас оригинальные запчасти?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Мы используем запчасти только оригинального качества. Компания Apple не выпускает запасные части для iPhone. Мы закупаем запчасти, которые выполнены по тем же стандартам, что и оригинальные. Поэтому после ремонта, вы не почувствуете разницы от оригинальной детали, а ваши устройства проживут еще очень долго.</p>
+<p style="text-align: center;">&nbsp;</p>"
+      ["link"]=>
+      string(33) "/iphone/?phone_id=7&service_id=54"
+    }
+    [3]=>
+    object(stdClass)#14 (11) {
+      ["id"]=>
+      string(2) "76"
+      ["title"]=>
+      string(44) "Замена кнопки включения"
+      ["alias"]=>
+      string(26) "zamena-knopki-vkljuchenija"
+      ["old_price"]=>
+      string(4) "2690"
+      ["old_price2"]=>
+      string(4) "3690"
+      ["price"]=>
+      string(4) "2130"
+      ["gifts"]=>
+      string(571) "[{"title":" \u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0427\u0435\u0445\u043e\u043b \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"1e3b4e90f9027b67b99f4c1448807c23","img":"\/iphone\/images\/gifts\/1e3b4e90f9027b67b99f4c1448807c23.png"},{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0417\u0430\u0449\u0438\u0442\u043d\u043e\u0435 \u0441\u0442\u0435\u043a\u043b\u043e \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"3a076a93589a158a22b9462c485fbb6e","img":"\/iphone\/images\/gifts\/3a076a93589a158a22b9462c485fbb6e.png"}]"
+      ["action"]=>
+      string(1) "2"
+      ["phone_id"]=>
+      string(1) "7"
+      ["faq"]=>
+      string(1901) "<p><strong>Выезд мастера бесплатный?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Мы выезжаем абсолютно бесплатно в пределах Москвы.</p>
+<p>За выезд до 10-ти км от МКАД &ndash; мы берем отдельную плату за проезд 1000 рублей.</p>
+<p>За выезд до 20-ти км от МКАД &ndash; стоимость выезда мастера 2000 рублей.</p>
+<p>За выезд до 30-ти км от МКАД &ndash; стоимость доплаты составит 3000 рублей.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Куда мастер может приехать?</strong></p>
+<p>&nbsp;</p>
+<p>Наш мастер может приехать в любую точку Москвы в не зависимости от вашего требования. Это может быть бар, университет, парк, торговый центр. Для ремонта нам потребуется только стол, все необходимые инструменты мы возьмем с собой.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>У вас оригинальные запчасти?</strong></p>
+<p>&nbsp;</p>
+<p>Мы используем запчасти только оригинального качества. Компания Apple не выпускает запасные части для iPhone. Мы закупаем запчасти, которые выполнены по тем же стандартам, что и оригинальные. Поэтому после ремонта, вы не почувствуете разницы от оригинальной детали, а ваши устройства проживут еще очень долго.</p>"
+      ["link"]=>
+      string(33) "/iphone/?phone_id=7&service_id=76"
+    }
+    [4]=>
+    object(stdClass)#15 (11) {
+      ["id"]=>
+      string(2) "64"
+      ["title"]=>
+      string(61) "Замена кнопки переключения вибро"
+      ["alias"]=>
+      string(35) "zamena-knopki-perekljuchenija-vibro"
+      ["old_price"]=>
+      string(4) "2800"
+      ["old_price2"]=>
+      string(4) "3800"
+      ["price"]=>
+      string(4) "2130"
+      ["gifts"]=>
+      string(570) "[{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0427\u0435\u0445\u043e\u043b \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"ff2c6405edc6a34eb6a5bb95720b68d5","img":"\/iphone\/images\/gifts\/ff2c6405edc6a34eb6a5bb95720b68d5.png"},{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0417\u0430\u0449\u0438\u0442\u043d\u043e\u0435 \u0441\u0442\u0435\u043a\u043b\u043e \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"a11f4874abca02c4371b27780515db6b","img":"\/iphone\/images\/gifts\/a11f4874abca02c4371b27780515db6b.png"}]"
+      ["action"]=>
+      string(1) "2"
+      ["phone_id"]=>
+      string(1) "7"
+      ["faq"]=>
+      string(3511) "<p style="text-align: center;"><strong>Почему при переключении регулятора кнопки вибро отсутствует вибрация?</strong></p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;">Здесь возможно 2 проблемы.<br /> 1. У вас просто выключена вибрация на телефоне.<br /> 2. У вас проблема на плате с вашим айфон и требуется более тщательная диагностика устройства.</p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>Сколько времени занимает замена кнопки вибро?</strong></p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;">От 30 до 40 минут. Кнопка переключения вибро находится на верхнем шлейфе. Для того, что бы ее заменить, требуется полностью разобрать устройство.</p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p><strong>Выезд мастера бесплатный?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Мы выезжаем абсолютно бесплатно в пределах Москвы.</p>
+<p>За выезд до 10-ти км от МКАД &ndash; мы берем отдельную плату за проезд 1000 рублей.</p>
+<p>За выезд до 20-ти км от МКАД &ndash; стоимость выезда мастера 2000 рублей.</p>
+<p>За выезд до 30-ти км от МКАД &ndash; стоимость доплаты составит 3000 рублей.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>Куда мастер может приехать?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Наш мастер может приехать в любую точку Москвы в не зависимости от вашего требования. Это может быть бар, университет, парк, торговый центр. Для ремонта нам потребуется только стол, все необходимые инструменты мы возьмем с собой.</p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>У вас оригинальные запчасти?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Мы используем запчасти только оригинального качества. Компания Apple не выпускает запасные части для iPhone. Мы закупаем запчасти, которые выполнены по тем же стандартам, что и оригинальные. Поэтому после ремонта, вы не почувствуете разницы от оригинальной детали, а ваши устройства проживут еще очень долго.</p>"
+      ["link"]=>
+      string(33) "/iphone/?phone_id=7&service_id=64"
+    }
+    [5]=>
+    object(stdClass)#16 (11) {
+      ["id"]=>
+      string(2) "87"
+      ["title"]=>
+      string(44) "Замена кнопок громкости"
+      ["alias"]=>
+      string(23) "zamena-knopok-gromkosti"
+      ["old_price"]=>
+      string(4) "2730"
+      ["old_price2"]=>
+      string(4) "3730"
+      ["price"]=>
+      string(4) "2130"
+      ["gifts"]=>
+      string(570) "[{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0427\u0435\u0445\u043e\u043b \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"ebbe89262ec8c9eb34c021c04d4b5faf","img":"\/iphone\/images\/gifts\/ebbe89262ec8c9eb34c021c04d4b5faf.png"},{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0417\u0430\u0449\u0438\u0442\u043d\u043e\u0435 \u0441\u0442\u0435\u043a\u043b\u043e \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"77bfc81c7dfaa1bd82f9940545478ad8","img":"\/iphone\/images\/gifts\/77bfc81c7dfaa1bd82f9940545478ad8.png"}]"
+      ["action"]=>
+      string(1) "2"
+      ["phone_id"]=>
+      string(1) "7"
+      ["faq"]=>
+      string(2415) "<p><strong>Сколько времени занимает замена кнопок громкости?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Замена займет от 30 минут. Кнопки переключения громкости на верхнем шлейфе айфон. Поэтому, что бы к ним подобраться потребуется полностью разобрать устройство.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Выезд мастера бесплатный?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Мы выезжаем абсолютно бесплатно в пределах Москвы.</p>
+<p>За выезд до 10-ти км от МКАД &ndash; мы берем отдельную плату за проезд 1000 рублей.</p>
+<p>За выезд до 20-ти км от МКАД &ndash; стоимость выезда мастера 2000 рублей.</p>
+<p>За выезд до 30-ти км от МКАД &ndash; стоимость доплаты составит 3000 рублей.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Куда мастер может приехать?</strong></p>
+<p>&nbsp;</p>
+<p>Наш мастер может приехать в любую точку Москвы в не зависимости от вашего требования. Это может быть бар, университет, парк, торговый центр. Для ремонта нам потребуется только стол, все необходимые инструменты мы возьмем с собой.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>У вас оригинальные запчасти?</strong></p>
+<p>&nbsp;</p>
+<p>Мы используем запчасти только оригинального качества. Компания Apple не выпускает запасные части для iPhone. Мы закупаем запчасти, которые выполнены по тем же стандартам, что и оригинальные. Поэтому после ремонта, вы не почувствуете разницы от оригинальной детали, а ваши устройства проживут еще очень долго.</p>"
+      ["link"]=>
+      string(33) "/iphone/?phone_id=7&service_id=87"
+    }
+    [6]=>
+    object(stdClass)#17 (11) {
+      ["id"]=>
+      string(2) "18"
+      ["title"]=>
+      string(27) "Замена корпуса"
+      ["alias"]=>
+      string(14) "zamena-korpusa"
+      ["old_price"]=>
+      string(4) "4480"
+      ["old_price2"]=>
+      string(4) "5480"
+      ["price"]=>
+      string(4) "3480"
+      ["gifts"]=>
+      string(570) "[{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0427\u0435\u0445\u043e\u043b \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"9d92321073b74043d06efb0292982fa3","img":"\/iphone\/images\/gifts\/9d92321073b74043d06efb0292982fa3.png"},{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0417\u0430\u0449\u0438\u0442\u043d\u043e\u0435 \u0441\u0442\u0435\u043a\u043b\u043e \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"2523b1fef4a5b9cab241abe0e7851bbd","img":"\/iphone\/images\/gifts\/2523b1fef4a5b9cab241abe0e7851bbd.png"}]"
+      ["action"]=>
+      string(1) "2"
+      ["phone_id"]=>
+      string(1) "7"
+      ["faq"]=>
+      string(3573) "<p style="text-align: center;" align="center"><strong><span style="font-size: 8.5pt; font-family: Verdana; color: black;">Сколько времени займет замена корпуса?</span></strong></p>
+<p style="text-align: center;" align="center"><span style="font-size: 8.5pt; font-family: Verdana; color: black;">&nbsp;</span></p>
+<p style="text-align: center;" align="center"><span style="font-size: 8.5pt; font-family: Verdana; color: black;">Обычно замена корпуса занимает от 30 до 40 минут. Это связано с тем, что при замене корпуса требуется отсоединить все шлейфы и приклеенные коннекторы от старого корпуса и присоединить к новому.</span></p>
+<p style="text-align: center;" align="center"><span style="font-size: 8.5pt; font-family: Verdana; color: black;">&nbsp;</span></p>
+<p style="text-align: center;" align="center"><span style="font-size: 8.5pt; font-family: Verdana; color: black;">&nbsp;</span></p>
+<p style="text-align: center;" align="center"><strong><span style="font-size: 8.5pt; font-family: Verdana; color: black;">Хорошего ли качества корпус?</span></strong></p>
+<p style="text-align: center;" align="center"><span style="font-size: 8.5pt; font-family: Verdana; color: black;">&nbsp;</span></p>
+<p style="text-align: center;" align="center"><span style="font-size: 8.5pt; font-family: Verdana; color: black;">Корпус айфон отвечает за сохранность внутренних компонентов смартфона поэтому важно, что бы он был максимально прочным. Мы используем детали, которые произведены по той же технологии, что и оригинальные. Вы не заметите никакой разницы на ощупь.</span></p>
+<p style="text-align: center;" align="center"><span style="font-size: 8.5pt; font-family: Verdana; color: black;">&nbsp;</span></p>
+<p style="text-align: center;" align="center"><span style="font-size: 8.5pt; font-family: Verdana; color: black;">&nbsp;</span></p>
+<p style="text-align: center;" align="center"><strong><span style="font-size: 8.5pt; font-family: Verdana; color: black;">Можете ли вы исправить искривление на корпусе?</span></strong></p>
+<p style="text-align: center;" align="center"><span style="font-size: 8.5pt; font-family: Verdana; color: black;">&nbsp;</span></p>
+<p style="text-align: center;" align="center"><span style="font-size: 8.5pt; font-family: Verdana; color: black;">Искривление корпуса может быть вызвано с механическим воздействием. Мы можем выправить вмятину на корпусе, но чаще всего проблема кроется глубже. В следствии падения, у смартфона может погнуться плата, что вызовет неправильную работу микросхем на материнской плате. В данном случае замена или правка корпуса не исправит положение, потому что при малейшем падении ваш дисплей деформируется или приведет к полной потере работоспособности устройства.</span></p>"
+      ["link"]=>
+      string(33) "/iphone/?phone_id=7&service_id=18"
+    }
+    [7]=>
+    object(stdClass)#18 (11) {
+      ["id"]=>
+      string(3) "101"
+      ["title"]=>
+      string(31) "Замена микрофона"
+      ["alias"]=>
+      string(16) "zamena-mikrofona"
+      ["old_price"]=>
+      string(4) "2670"
+      ["old_price2"]=>
+      string(4) "3670"
+      ["price"]=>
+      string(4) "2130"
+      ["gifts"]=>
+      string(570) "[{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0427\u0435\u0445\u043e\u043b \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"86cfbab3eb235c66bf23ff4607466b66","img":"\/iphone\/images\/gifts\/86cfbab3eb235c66bf23ff4607466b66.png"},{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0417\u0430\u0449\u0438\u0442\u043d\u043e\u0435 \u0441\u0442\u0435\u043a\u043b\u043e \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"db072518d54ec249e9f392e950020b4a","img":"\/iphone\/images\/gifts\/db072518d54ec249e9f392e950020b4a.png"}]"
+      ["action"]=>
+      string(1) "2"
+      ["phone_id"]=>
+      string(1) "7"
+      ["faq"]=>
+      string(2738) "<p><strong>Сколько времени занимает замена микрофона?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Замена займет от 20 минут. Никаких особых условий не нужно, мастеру будет достаточно маленького столика и хорошего освещения.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>Почему при записи голосового сообщения мой голос плохо слышно?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Потому, что в айфон установлено два микрофона. Один работает при телефонном разговоре, а второй при работе с интернетом.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Выезд мастера бесплатный?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Мы выезжаем абсолютно бесплатно в пределах Москвы.</p>
+<p>За выезд до 10-ти км от МКАД &ndash; мы берем отдельную плату за проезд 1000 рублей.</p>
+<p>За выезд до 20-ти км от МКАД &ndash; стоимость выезда мастера 2000 рублей.</p>
+<p>За выезд до 30-ти км от МКАД &ndash; стоимость доплаты составит 3000 рублей.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Куда мастер может приехать?</strong></p>
+<p>&nbsp;</p>
+<p>Наш мастер может приехать в любую точку Москвы в не зависимости от вашего требования. Это может быть бар, университет, парк, торговый центр. Для ремонта нам потребуется только стол, все необходимые инструменты мы возьмем с собой.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>У вас оригинальные запчасти?</strong></p>
+<p>&nbsp;</p>
+<p>Мы используем запчасти только оригинального качества. Компания Apple не выпускает запасные части для iPhone. Мы закупаем запчасти, которые выполнены по тем же стандартам, что и оригинальные. Поэтому после ремонта, вы не почувствуете разницы от оригинальной детали, а ваши устройства проживут еще очень долго.</p>"
+      ["link"]=>
+      string(34) "/iphone/?phone_id=7&service_id=101"
+    }
+    [8]=>
+    object(stdClass)#19 (11) {
+      ["id"]=>
+      string(3) "109"
+      ["title"]=>
+      string(42) "Замена основной камеры"
+      ["alias"]=>
+      string(22) "zamena-osnovnoi-kamery"
+      ["old_price"]=>
+      string(4) "2780"
+      ["old_price2"]=>
+      string(4) "3780"
+      ["price"]=>
+      string(4) "2190"
+      ["gifts"]=>
+      string(570) "[{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0427\u0435\u0445\u043e\u043b \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"e3d451f94d6a535783c400389174986f","img":"\/iphone\/images\/gifts\/e3d451f94d6a535783c400389174986f.png"},{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0417\u0430\u0449\u0438\u0442\u043d\u043e\u0435 \u0441\u0442\u0435\u043a\u043b\u043e \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"5a31c2140d4058bb1a169e969dc33f79","img":"\/iphone\/images\/gifts\/5a31c2140d4058bb1a169e969dc33f79.png"}]"
+      ["action"]=>
+      string(1) "2"
+      ["phone_id"]=>
+      string(1) "7"
+      ["faq"]=>
+      string(1901) "<p><strong>Выезд мастера бесплатный?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Мы выезжаем абсолютно бесплатно в пределах Москвы.</p>
+<p>За выезд до 10-ти км от МКАД &ndash; мы берем отдельную плату за проезд 1000 рублей.</p>
+<p>За выезд до 20-ти км от МКАД &ndash; стоимость выезда мастера 2000 рублей.</p>
+<p>За выезд до 30-ти км от МКАД &ndash; стоимость доплаты составит 3000 рублей.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Куда мастер может приехать?</strong></p>
+<p>&nbsp;</p>
+<p>Наш мастер может приехать в любую точку Москвы в не зависимости от вашего требования. Это может быть бар, университет, парк, торговый центр. Для ремонта нам потребуется только стол, все необходимые инструменты мы возьмем с собой.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>У вас оригинальные запчасти?</strong></p>
+<p>&nbsp;</p>
+<p>Мы используем запчасти только оригинального качества. Компания Apple не выпускает запасные части для iPhone. Мы закупаем запчасти, которые выполнены по тем же стандартам, что и оригинальные. Поэтому после ремонта, вы не почувствуете разницы от оригинальной детали, а ваши устройства проживут еще очень долго.</p>"
+      ["link"]=>
+      string(34) "/iphone/?phone_id=7&service_id=109"
+    }
+    [9]=>
+    object(stdClass)#20 (11) {
+      ["id"]=>
+      string(3) "119"
+      ["title"]=>
+      string(42) "Замена передней камеры"
+      ["alias"]=>
+      string(22) "zamena-perednei-kamery"
+      ["old_price"]=>
+      string(4) "2690"
+      ["old_price2"]=>
+      string(4) "3690"
+      ["price"]=>
+      string(4) "2190"
+      ["gifts"]=>
+      string(570) "[{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0427\u0435\u0445\u043e\u043b \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"0cb527b6b453afd2dee8c88511e6b693","img":"\/iphone\/images\/gifts\/0cb527b6b453afd2dee8c88511e6b693.png"},{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0417\u0430\u0449\u0438\u0442\u043d\u043e\u0435 \u0441\u0442\u0435\u043a\u043b\u043e \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"b7959bdd55495c14e182f8c0f0636f32","img":"\/iphone\/images\/gifts\/b7959bdd55495c14e182f8c0f0636f32.png"}]"
+      ["action"]=>
+      string(1) "2"
+      ["phone_id"]=>
+      string(1) "7"
+      ["faq"]=>
+      string(2526) "<p><strong>Почему при включении фронтальной камеры экран черный и горит надпись &ldquo;вспышка выключена, перед использованием вспышки iphone требует охлаждения&rdquo; </strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Проблема связана с неполадками контроллера вспышки на плате.&nbsp;Требуется пайка айфон, замена камеры не решит проблему.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Выезд мастера бесплатный?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Мы выезжаем абсолютно бесплатно в пределах Москвы.</p>
+<p>За выезд до 10-ти км от МКАД &ndash; мы берем отдельную плату за проезд 1000 рублей.</p>
+<p>За выезд до 20-ти км от МКАД &ndash; стоимость выезда мастера 2000 рублей.</p>
+<p>За выезд до 30-ти км от МКАД &ndash; стоимость доплаты составит 3000 рублей.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Куда мастер может приехать?</strong></p>
+<p>&nbsp;</p>
+<p>Наш мастер может приехать в любую точку Москвы в не зависимости от вашего требования. Это может быть бар, университет, парк, торговый центр. Для ремонта нам потребуется только стол, все необходимые инструменты мы возьмем с собой.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>У вас оригинальные запчасти?</strong></p>
+<p>&nbsp;</p>
+<p>Мы используем запчасти только оригинального качества. Компания Apple не выпускает запасные части для iPhone. Мы закупаем запчасти, которые выполнены по тем же стандартам, что и оригинальные. Поэтому после ремонта, вы не почувствуете разницы от оригинальной детали, а ваши устройства проживут еще очень долго.</p>"
+      ["link"]=>
+      string(34) "/iphone/?phone_id=7&service_id=119"
+    }
+    [10]=>
+    object(stdClass)#21 (11) {
+      ["id"]=>
+      string(3) "138"
+      ["title"]=>
+      string(60) "Замена полифонического динамика"
+      ["alias"]=>
+      string(32) "zamena-polifonicheskogo-dinamika"
+      ["old_price"]=>
+      string(4) "2630"
+      ["old_price2"]=>
+      string(4) "3630"
+      ["price"]=>
+      string(4) "2130"
+      ["gifts"]=>
+      string(570) "[{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0427\u0435\u0445\u043e\u043b \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"9553b381693bf776be8c3f6694c9b51e","img":"\/iphone\/images\/gifts\/9553b381693bf776be8c3f6694c9b51e.png"},{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0417\u0430\u0449\u0438\u0442\u043d\u043e\u0435 \u0441\u0442\u0435\u043a\u043b\u043e \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"8a47e989252ce20a80a72cb212dfb749","img":"\/iphone\/images\/gifts\/8a47e989252ce20a80a72cb212dfb749.png"}]"
+      ["action"]=>
+      string(1) "2"
+      ["phone_id"]=>
+      string(1) "7"
+      ["faq"]=>
+      string(2751) "<p><strong>Почему при входящем вызове, плохо слышно рингтон?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Скорее всего в динамика попала влага и контакты окислились, в следствие этого звонок стало хуже слышно. Требуется проф работы на плате, либо замена динамика.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Сколько времени занимает замена полифонического динамика?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Замена полифонического динамика занимает около 20 минут.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Выезд мастера бесплатный?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Мы выезжаем абсолютно бесплатно в пределах Москвы.</p>
+<p>За выезд до 10-ти км от МКАД &ndash; мы берем отдельную плату за проезд 1000 рублей.</p>
+<p>За выезд до 20-ти км от МКАД &ndash; стоимость выезда мастера 2000 рублей.</p>
+<p>За выезд до 30-ти км от МКАД &ndash; стоимость доплаты составит 3000 рублей.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Куда мастер может приехать?</strong></p>
+<p>&nbsp;</p>
+<p>Наш мастер может приехать в любую точку Москвы в не зависимости от вашего требования. Это может быть бар, университет, парк, торговый центр. Для ремонта нам потребуется только стол, все необходимые инструменты мы возьмем с собой.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>У вас оригинальные запчасти?</strong></p>
+<p>&nbsp;</p>
+<p>Мы используем запчасти только оригинального качества. Компания Apple не выпускает запасные части для iPhone. Мы закупаем запчасти, которые выполнены по тем же стандартам, что и оригинальные. Поэтому после ремонта, вы не почувствуете разницы от оригинальной детали, а ваши устройства проживут еще очень долго.</p>"
+      ["link"]=>
+      string(34) "/iphone/?phone_id=7&service_id=138"
+    }
+    [11]=>
+    object(stdClass)#22 (11) {
+      ["id"]=>
+      string(2) "40"
+      ["title"]=>
+      string(49) "Замена слухового динамика "
+      ["alias"]=>
+      string(25) "zamena-sluhovogo-dinamika"
+      ["old_price"]=>
+      string(4) "2700"
+      ["old_price2"]=>
+      string(4) "3700"
+      ["price"]=>
+      string(4) "2190"
+      ["gifts"]=>
+      string(570) "[{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0427\u0435\u0445\u043e\u043b \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"5dc78e50d70805c7544d55b56dbde559","img":"\/iphone\/images\/gifts\/5dc78e50d70805c7544d55b56dbde559.png"},{"title":"\u041d\u0410 \u0412\u042b\u0411\u041e\u0420 ","pre":"\u0417\u0430\u0449\u0438\u0442\u043d\u043e\u0435 \u0441\u0442\u0435\u043a\u043b\u043e \u0432 \u043f\u043e\u0434\u0430\u0440\u043e\u043a","key":"ac2c36e1083ea289a671672c56b2a135","img":"\/iphone\/images\/gifts\/ac2c36e1083ea289a671672c56b2a135.png"}]"
+      ["action"]=>
+      string(1) "2"
+      ["phone_id"]=>
+      string(1) "7"
+      ["faq"]=>
+      string(2747) "<p><strong>Выезд мастера бесплатный?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Мы выезжаем абсолютно бесплатно в пределах Москвы.</p>
+<p>За выезд до 10-ти км от МКАД &ndash; мы берем отдельную плату за проезд 1000 рублей.</p>
+<p>За выезд до 20-ти км от МКАД &ndash; стоимость выезда мастера 2000 рублей.</p>
+<p>За выезд до 30-ти км от МКАД &ndash; стоимость доплаты составит 3000 рублей.</p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>Куда мастер может приехать?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Наш мастер может приехать в любую точку Москвы в не зависимости от вашего требования. Это может быть бар, университет, парк, торговый центр. Для ремонта нам потребуется только стол, все инструменты у нас будут с собой.</p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>&nbsp;</strong></p>
+<p style="text-align: center;"><strong>У вас оригинальные запчасти?</strong></p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">Мы используем запчасти только оригинального качества. Компания Apple не выпускает запасные части для iPhone. Мы закупаем запчасти, которые выполнены по тем же стандартам, что и оригинальные. Поэтому после ремонта, вы не почувствуете разницы от оригинальной детали, а ваши устройства проживут еще очень долго.</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;&nbsp;</p>
+<p style="text-align: center;"><strong>Сколько времени занимает замена слухового микрофона?</strong></p>
+<p style="text-align: center;">Время замены слухового динамика занимает 20-30 минут. Потому как находится в верхней части айфон и крепится к верхнему шлейфу. Что бы подобраться к нему, необходимо полностью разобрать телефон.</p>"
+      ["link"]=>
+      string(33) "/iphone/?phone_id=7&service_id=40"
+    }
+  }
+  ["advantages"]=>
+  array(4) {
+    [0]=>
+    object(stdClass)#25 (5) {
+      ["id"]=>
+      string(3) "467"
+      ["icon"]=>
+      string(62) "/iphone/images/advantages/ab0bcc8e1b68c9374ee1eb735ea97e39.png"
+      ["text"]=>
+      string(142) "<p><strong>Бесплатный выезд</strong><br />мастера в течение 1 часа в любую точку Москвы</p>"
+      ["ordering"]=>
+      string(1) "0"
+      ["service_id"]=>
+      string(3) "119"
+    }
+    [1]=>
+    object(stdClass)#26 (5) {
+      ["id"]=>
+      string(3) "468"
+      ["icon"]=>
+      string(62) "/iphone/images/advantages/334d14909892aafa6f64e2b4b84997dc.png"
+      ["text"]=>
+      string(119) "<p><strong>Оригинальные</strong><br />комплектующие&nbsp;высокого качества</p>"
+      ["ordering"]=>
+      string(1) "0"
+      ["service_id"]=>
+      string(3) "119"
+    }
+    [2]=>
+    object(stdClass)#27 (5) {
+      ["id"]=>
+      string(3) "469"
+      ["icon"]=>
+      string(62) "/iphone/images/advantages/f28d084591e157bb7a8926cbdad41cd7.png"
+      ["text"]=>
+      string(90) "<p><strong>Цены ниже</strong><br />чем в сервисных центрах</p>"
+      ["ordering"]=>
+      string(1) "0"
+      ["service_id"]=>
+      string(3) "119"
+    }
+    [3]=>
+    object(stdClass)#28 (5) {
+      ["id"]=>
+      string(3) "470"
+      ["icon"]=>
+      string(62) "/iphone/images/advantages/dce237312559e6441caff861effae9a1.jpg"
+      ["text"]=>
+      string(114) "<p><strong>Квалифицированный</strong><br />ремонт при вас за 20&nbsp;минут</p>"
+      ["ordering"]=>
+      string(1) "0"
+      ["service_id"]=>
+      string(3) "119"
+    }
+  }
+  ["order_service"]=>
+  array(4) {
+    [0]=>
+    object(stdClass)#29 (3) {
+      ["id"]=>
+      string(1) "5"
+      ["title"]=>
+      string(92) "Вы назначаете встречу
+в вашем офисе, в кафе, дома..."
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [1]=>
+    object(stdClass)#30 (3) {
+      ["id"]=>
+      string(1) "2"
+      ["title"]=>
+      string(88) "Выездной мастер приедет
+в удобное для вас время"
+      ["ordering"]=>
+      string(1) "1"
+    }
+    [2]=>
+    object(stdClass)#31 (3) {
+      ["id"]=>
+      string(1) "3"
+      ["title"]=>
+      string(66) "Произведет замену детали
+за 20 минут"
+      ["ordering"]=>
+      string(1) "2"
+    }
+    [3]=>
+    object(stdClass)#32 (3) {
+      ["id"]=>
+      string(1) "4"
+      ["title"]=>
+      string(85) "Примет оплату, выдаст чек
+и гарантию на 1 месяц"
+      ["ordering"]=>
+      string(1) "3"
+    }
+  }
+  ["faq"]=>
+  NULL
+  ["audios"]=>
+  array(4) {
+    [0]=>
+    object(stdClass)#33 (6) {
+      ["id"]=>
+      string(1) "3"
+      ["name"]=>
+      string(18) "Александр"
+      ["pre"]=>
+      string(23) "Москва, 29 лет"
+      ["avatar"]=>
+      string(58) "/iphone/images/audios/3e954276632cdf116ebde36cddcd3390.png"
+      ["date"]=>
+      string(19) "2016-12-18 23:15:00"
+      ["track"]=>
+      string(50) "/iphone/audio/f248ac901765481c1512d7e247e2b8c8.mp3"
+    }
+    [1]=>
+    object(stdClass)#34 (6) {
+      ["id"]=>
+      string(1) "4"
+      ["name"]=>
+      string(8) "Юрий"
+      ["pre"]=>
+      string(23) "Москва, 26 лет"
+      ["avatar"]=>
+      string(58) "/iphone/images/audios/22c781f79750164a6b49abd2764f32bc.png"
+      ["date"]=>
+      string(19) "2016-12-18 23:15:00"
+      ["track"]=>
+      string(50) "/iphone/audio/36295533e9dfbbc18348119e89495b51.mp3"
+    }
+    [2]=>
+    object(stdClass)#35 (6) {
+      ["id"]=>
+      string(1) "2"
+      ["name"]=>
+      string(10) "Павел"
+      ["pre"]=>
+      string(25) "Москва, 32 года"
+      ["avatar"]=>
+      string(58) "/iphone/images/audios/3ed612f71ee639b37440c97a165de5ca.png"
+      ["date"]=>
+      string(19) "2016-12-18 23:14:00"
+      ["track"]=>
+      string(50) "/iphone/audio/44d5631fcf13d15ce5a25df48992c764.mp3"
+    }
+    [3]=>
+    object(stdClass)#36 (6) {
+      ["id"]=>
+      string(1) "1"
+      ["name"]=>
+      string(10) "Денис"
+      ["pre"]=>
+      string(23) "Москва, 35 лет"
+      ["avatar"]=>
+      string(58) "/iphone/images/audios/6c13075f3bd0294e8211eeb9e0851611.png"
+      ["date"]=>
+      string(19) "2016-12-18 23:10:00"
+      ["track"]=>
+      string(50) "/iphone/audio/1b0619aabcabaf4638d9df7fcd9e02f9.mp3"
+    }
+  }
+  ["stars"]=>
+  array(6) {
+    [0]=>
+    object(stdClass)#37 (5) {
+      ["id"]=>
+      string(1) "1"
+      ["name"]=>
+      string(23) "Катрин Рвиза"
+      ["pre"]=>
+      string(66) "Победитель шоу «Каникулы в Мексике»"
+      ["avatar"]=>
+      string(57) "/iphone/images/stars/a88a0c7c6a0f8b8cbbb4914a5262a985.png"
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [1]=>
+    object(stdClass)#38 (5) {
+      ["id"]=>
+      string(1) "2"
+      ["name"]=>
+      string(35) "Виктория Черенцова"
+      ["pre"]=>
+      string(12) "Певица"
+      ["avatar"]=>
+      string(57) "/iphone/images/stars/4c9fa52a0608f3aeb9596e98e6167bac.png"
+      ["ordering"]=>
+      string(1) "1"
+    }
+    [2]=>
+    object(stdClass)#39 (5) {
+      ["id"]=>
+      string(1) "3"
+      ["name"]=>
+      string(25) "Николай Попов"
+      ["pre"]=>
+      string(28) "Продюсер Муз ТВ"
+      ["avatar"]=>
+      string(57) "/iphone/images/stars/920bff5f58c6bfa3a3ab90559111b5de.png"
+      ["ordering"]=>
+      string(1) "2"
+    }
+    [3]=>
+    object(stdClass)#40 (5) {
+      ["id"]=>
+      string(1) "4"
+      ["name"]=>
+      string(25) "Иван Барзиков"
+      ["pre"]=>
+      string(23) "Герой «Дом-2»"
+      ["avatar"]=>
+      string(57) "/iphone/images/stars/ab727916d34e467f3ef50bbdaa96adfe.png"
+      ["ordering"]=>
+      string(1) "3"
+    }
+    [4]=>
+    object(stdClass)#41 (5) {
+      ["id"]=>
+      string(1) "5"
+      ["name"]=>
+      string(23) "Айза Анохина"
+      ["pre"]=>
+      string(36) "Дизайнер и модельер"
+      ["avatar"]=>
+      string(57) "/iphone/images/stars/0160b8b3a0027e4cbc1bb6f124ca45ce.png"
+      ["ordering"]=>
+      string(1) "4"
+    }
+    [5]=>
+    object(stdClass)#42 (5) {
+      ["id"]=>
+      string(1) "6"
+      ["name"]=>
+      string(25) "Андрей Афонин"
+      ["pre"]=>
+      string(31) "Известный блогер"
+      ["avatar"]=>
+      string(57) "/iphone/images/stars/e84710bdcadb719daacbd66ec0ff81e8.png"
+      ["ordering"]=>
+      string(1) "5"
+    }
+  }
+  ["companies"]=>
+  array(16) {
+    [0]=>
+    object(stdClass)#43 (4) {
+      ["id"]=>
+      string(1) "1"
+      ["title"]=>
+      string(14) "Мегафон"
+      ["image"]=>
+      string(61) "/iphone/images/companies/7e7c5167f285e7254e0ad394046e2d8f.png"
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [1]=>
+    object(stdClass)#44 (4) {
+      ["id"]=>
+      string(1) "5"
+      ["title"]=>
+      string(14) "россия 1"
+      ["image"]=>
+      string(61) "/iphone/images/companies/26d036ada8078eb14e2c00140fd35c25.png"
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [2]=>
+    object(stdClass)#45 (4) {
+      ["id"]=>
+      string(1) "6"
+      ["title"]=>
+      string(8) "мерс"
+      ["image"]=>
+      string(61) "/iphone/images/companies/1cca7ccf5696c506108d732cd0ab27c6.png"
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [3]=>
+    object(stdClass)#46 (4) {
+      ["id"]=>
+      string(1) "7"
+      ["title"]=>
+      string(10) "ворлд"
+      ["image"]=>
+      string(61) "/iphone/images/companies/24095add37a10a5e3135bfd40da7c41b.png"
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [4]=>
+    object(stdClass)#47 (4) {
+      ["id"]=>
+      string(1) "8"
+      ["title"]=>
+      string(12) "каспер"
+      ["image"]=>
+      string(61) "/iphone/images/companies/5bda95d9b850dcdd9f73574be084a615.png"
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [5]=>
+    object(stdClass)#48 (4) {
+      ["id"]=>
+      string(1) "9"
+      ["title"]=>
+      string(2) "к"
+      ["image"]=>
+      string(61) "/iphone/images/companies/ac75537a9c97380e4f954ce0eed23f51.png"
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [6]=>
+    object(stdClass)#49 (4) {
+      ["id"]=>
+      string(2) "10"
+      ["title"]=>
+      string(12) "ламода"
+      ["image"]=>
+      string(61) "/iphone/images/companies/4eb60f0ad2a8ae9d4e18b88774e49a3e.png"
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [7]=>
+    object(stdClass)#50 (4) {
+      ["id"]=>
+      string(2) "11"
+      ["title"]=>
+      string(12) "тойота"
+      ["image"]=>
+      string(61) "/iphone/images/companies/335f53326f3cc9e17198cd73fc5dfed3.png"
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [8]=>
+    object(stdClass)#51 (4) {
+      ["id"]=>
+      string(2) "12"
+      ["title"]=>
+      string(14) "кларинс"
+      ["image"]=>
+      string(61) "/iphone/images/companies/f467d20caa4432ae626a18e9784c294b.png"
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [9]=>
+    object(stdClass)#52 (4) {
+      ["id"]=>
+      string(2) "13"
+      ["title"]=>
+      string(14) "открыть"
+      ["image"]=>
+      string(61) "/iphone/images/companies/7f6fbe06cf59807ed5738950e7ec9131.png"
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [10]=>
+    object(stdClass)#53 (4) {
+      ["id"]=>
+      string(2) "14"
+      ["title"]=>
+      string(2) "а"
+      ["image"]=>
+      string(61) "/iphone/images/companies/2fe065a1b40e626277ec72ad0b61f1ac.png"
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [11]=>
+    object(stdClass)#54 (4) {
+      ["id"]=>
+      string(2) "15"
+      ["title"]=>
+      string(16) "татнефть"
+      ["image"]=>
+      string(61) "/iphone/images/companies/adf3eff48b2dc40e471e0e67d9798d80.png"
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [12]=>
+    object(stdClass)#55 (4) {
+      ["id"]=>
+      string(2) "16"
+      ["title"]=>
+      string(16) "роснефть"
+      ["image"]=>
+      string(61) "/iphone/images/companies/c65422f70019da7beaa761331baa720b.png"
+      ["ordering"]=>
+      string(1) "0"
+    }
+    [13]=>
+    object(stdClass)#56 (4) {
+      ["id"]=>
+      string(1) "2"
+      ["title"]=>
+      string(12) "Вольво"
+      ["image"]=>
+      string(61) "/iphone/images/companies/5788d9ed1f62ce98e066d553296efb46.png"
+      ["ordering"]=>
+      string(1) "1"
+    }
+    [14]=>
+    object(stdClass)#57 (4) {
+      ["id"]=>
+      string(1) "3"
+      ["title"]=>
+      string(12) "лукойл"
+      ["image"]=>
+      string(61) "/iphone/images/companies/8fb3dda7b53f31ad55219b793c8d1e4c.png"
+      ["ordering"]=>
+      string(1) "2"
+    }
+    [15]=>
+    object(stdClass)#58 (4) {
+      ["id"]=>
+      string(1) "4"
+      ["title"]=>
+      string(8) "порш"
+      ["image"]=>
+      string(61) "/iphone/images/companies/891e1548d29369117e0b26e1ce10a7bc.png"
+      ["ordering"]=>
+      string(1) "3"
+    }
+  }
+  ["social"]=>
+  array(16) {
+    [0]=>
+    object(stdClass)#59 (9) {
+      ["id"]=>
+      string(2) "16"
+      ["title"]=>
+      string(73) "Спасибо огромное, оба телефона работают"
+      ["text"]=>
+      string(163) "Снова могу делать кучу бессмысленных селфи) Мне отремонтировали телефон, я рада, спасибо!"
+      ["link"]=>
+      string(40) "https://www.instagram.com/p/BMBmPbBhl9i/"
+      ["type"]=>
+      string(0) ""
+      ["name"]=>
+      string(14) "Наталия"
+      ["pre"]=>
+      string(23) "Москва, 27 лет"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/28bc1a41f0f2c2dee51dc6d81651989d.png"
+      ["date"]=>
+      string(19) "2016-12-30 20:33:00"
+    }
+    [1]=>
+    object(stdClass)#60 (9) {
+      ["id"]=>
+      string(2) "15"
+      ["title"]=>
+      string(56) "Берегите близких и свои айфоны"
+      ["text"]=>
+      string(405) "Сегодня была у своих друзей и мастеров на все руки по части ремонта айфонов !)) Айдабраво, айдамолодцы! выезжают на место "трагедии" вашего айфона! Делают быстро и цена по рынку очень даже)) дешевле, чем я делала в прошлый раз!"
+      ["link"]=>
+      string(40) "https://www.instagram.com/p/BMFGWYlAIAG/"
+      ["type"]=>
+      string(0) ""
+      ["name"]=>
+      string(38) "Анастасия Белочкина "
+      ["pre"]=>
+      string(23) "Москва, 27 лет"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/38abae5c7bd077ceb419646b92fa7a5a.png"
+      ["date"]=>
+      string(19) "2016-12-30 20:28:00"
+    }
+    [2]=>
+    object(stdClass)#61 (9) {
+      ["id"]=>
+      string(2) "14"
+      ["title"]=>
+      string(62) "Ай да молодцы! Теперь только к вам!"
+      ["text"]=>
+      string(669) "Я и котик хотим сказать огромное Спасибо компании аймолодец и в частности мастеру Александру, за то что быстро, интересно и очень качественно поменяли мне экран. Я сталкивалась изначально с обманщиками и была очень рада наконец встретить профессионалов своего дела, отличный сервис и добросовестную работу. И ещё просто приятных людей! В следующий раз только к Вам!"
+      ["link"]=>
+      string(40) "https://www.instagram.com/p/BMHWCkoBVIs/"
+      ["type"]=>
+      string(2) "in"
+      ["name"]=>
+      string(37) "Катарина Детковская"
+      ["pre"]=>
+      string(23) "Москва, 25 лет"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/ae7536a3af5aa1d7feaaba358bdb4ff4.png"
+      ["date"]=>
+      string(19) "2016-12-30 20:24:00"
+    }
+    [3]=>
+    object(stdClass)#62 (9) {
+      ["id"]=>
+      string(2) "13"
+      ["title"]=>
+      string(53) "Мне починили экран за 15 минут"
+      ["text"]=>
+      string(478) "Есть среди вас такие же "рукожопы" как я, для которых разбить экран - обычное и привычное дело? Если да - отзовитесь! У меня для вас есть хорошая находка - сервис по ремонту телефонов @imolodec! Мне починили экран за 15 (❕) минут. Подписывайтесь на ребят, чтобы не потерять!"
+      ["link"]=>
+      string(0) ""
+      ["type"]=>
+      string(0) ""
+      ["name"]=>
+      string(46) "  Юлия Железнякова Москва"
+      ["pre"]=>
+      string(23) "Москва, 21 год"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/1f2901911e61e918d653461bf027dbd7.png"
+      ["date"]=>
+      string(19) "2016-12-30 20:23:00"
+    }
+    [4]=>
+    object(stdClass)#63 (9) {
+      ["id"]=>
+      string(2) "12"
+      ["title"]=>
+      string(41) "Рекомендую ай,молодец!"
+      ["text"]=>
+      string(279) "Совсем недавно на одной съемке пострадал мой iPhone. А без него я иногда как без рук! Но ребята из @imolodec выручили меня и восстановили мой гаджет очень быстро."
+      ["link"]=>
+      string(0) ""
+      ["type"]=>
+      string(2) "in"
+      ["name"]=>
+      string(35) "Георгий Ланчевский"
+      ["pre"]=>
+      string(25) "Москва, 23 года"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/491f096be94ab81f54156ea2382adf75.png"
+      ["date"]=>
+      string(19) "2016-12-29 16:25:00"
+    }
+    [5]=>
+    object(stdClass)#64 (9) {
+      ["id"]=>
+      string(2) "11"
+      ["title"]=>
+      string(123) "Всего через час мастер на моих глазах вернул моё устройство к жизни"
+      ["text"]=>
+      string(999) "Какой бы ты аккуратный не был, но iPhone бывает вылетает из рук. Именно так началось моё утро. Свой новенький iPhone, случайно, уронил на Красной площади. Подняв его, обнаружил разбитый экран и не работающую кнопку блокировки. Очень расстроился, но вспомнил о крутом сервисе @imolodec, с низкими ценами и качественным обслуживанием, позвонил и описал проблемы мастеру. Всего через час я встретился с ним и он на моих глазах вернул моё устройство к жизни. Поэтому от души рекомендую подписаться на ребят и записать контакты этого чудесного сервиса аймолодец.рф"
+      ["link"]=>
+      string(40) "https://www.instagram.com/p/BMJmlo0ji_M/"
+      ["type"]=>
+      string(2) "in"
+      ["name"]=>
+      string(7) "21depth"
+      ["pre"]=>
+      string(25) "Москва, 23 года"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/e5a7d9c501ca557d441fa10b570a5059.jpg"
+      ["date"]=>
+      string(19) "2016-12-29 16:24:00"
+    }
+    [6]=>
+    object(stdClass)#65 (9) {
+      ["id"]=>
+      string(2) "10"
+      ["title"]=>
+      string(32) "Все супер спасибо"
+      ["text"]=>
+      string(254) "Мой телефон ожил! Мастер из "ай,молодец" приехал, оставили подменный айфон на время ремонта, за сутки всё починили. Супер спасибо, аймолодец!"
+      ["link"]=>
+      string(0) ""
+      ["type"]=>
+      string(2) "in"
+      ["name"]=>
+      string(14) "Евгений"
+      ["pre"]=>
+      string(25) "Москва, 34 года"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/e6d2a388b800607b540e4a67873bac65.png"
+      ["date"]=>
+      string(19) "2016-12-29 16:23:00"
+    }
+    [7]=>
+    object(stdClass)#66 (9) {
+      ["id"]=>
+      string(1) "9"
+      ["title"]=>
+      string(93) "Выражаю огромную благодарность мастеру из сервиса"
+      ["text"]=>
+      string(403) "Зима - время разочарований Вчера мы чуть не потеряли наш новенький #ipad Выражаю огромную благодарность мастеру из сервиса @imolodec за оперативную помощь! Приехал менее чем за час и за 20 минут решил нашу проблему! Всем советую!"
+      ["link"]=>
+      string(40) "https://www.instagram.com/p/BMlzEOvgdpz/"
+      ["type"]=>
+      string(0) ""
+      ["name"]=>
+      string(25) "Иван Барзиков"
+      ["pre"]=>
+      string(23) "Москва, 27 лет"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/6b162cadc16c4db1e07cf33fa8801404.png"
+      ["date"]=>
+      string(19) "2016-12-29 16:22:00"
+    }
+    [8]=>
+    object(stdClass)#67 (9) {
+      ["id"]=>
+      string(1) "8"
+      ["title"]=>
+      string(123) "Спасибо огромное, такое чувство, что подарили мне новый телефон!!! ✨"
+      ["text"]=>
+      string(943) "Это не плохо, а просто факт: гаджеты - огромная часть нашей жизни. Особенно для тех, кто работает в медиа-пространстве. Да, я постоянно за телефоном, но вопреки убеждениям и стереотипам, это нисколько не мешает оставаться в реальном мире, наслаждаться им (коллеги поймут). Когда же гаджет настойчиво посылает тебя куда подальше, отказываясь работать, наступает настоящая катастрофа. Работа, связь с близкими за 9000 км., элементарно будильник - все накрывается медным тазом и сидишь ты в неведении, одиноко поглаживая кота"
+      ["link"]=>
+      string(40) "https://www.instagram.com/p/BMy72llgkyM/"
+      ["type"]=>
+      string(2) "in"
+      ["name"]=>
+      string(13) "Юлия Ли"
+      ["pre"]=>
+      string(25) "Москва, 22 года"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/63e189fe74f876b2808d0f9ab3af0a24.png"
+      ["date"]=>
+      string(19) "2016-12-29 16:20:00"
+    }
+    [9]=>
+    object(stdClass)#68 (9) {
+      ["id"]=>
+      string(1) "7"
+      ["title"]=>
+      string(61) "Всем рекомендую! Хорошая команда!"
+      ["text"]=>
+      string(612) "Классный сервис по ремонту!!! Просто так денег не берут, только за то что сделали. У моего друга сломался телефон, и случилась какая то проблема что его не возможно было отремонтировать. Спасибо ребятам что вытащили данные перенесли на новый, и всего на всего за 1000 рублей! Причём провозились целый день! Всем рекомендую! Хорошая команда!"
+      ["link"]=>
+      string(40) "https://www.instagram.com/p/BNJjUvsBH3t/"
+      ["type"]=>
+      string(2) "in"
+      ["name"]=>
+      string(12) "Михаил"
+      ["pre"]=>
+      string(25) "Москва, 22 года"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/29f11879e3aa86acfd6c146e616ccee7.jpg"
+      ["date"]=>
+      string(19) "2016-12-29 16:18:00"
+    }
+    [10]=>
+    object(stdClass)#69 (9) {
+      ["id"]=>
+      string(1) "6"
+      ["title"]=>
+      string(157) "Спасибо огромное ребятам аймолодец.рф что быстро приехали и заменили мне аккумулятор"
+      ["text"]=>
+      string(456) "Спасибо огромное ребятам @imolodec что быстро приехали и заменили мне аккумулятор, но главное поставили новый оригинальный дисплей на мою 6ку!!! Теперь не могу нарадоваться, словно ребёнок,что телефон все же смогли спасти, а я спокойно могу вести соц.сети"
+      ["link"]=>
+      string(40) "https://www.instagram.com/p/BNMEfIHgVi-/"
+      ["type"]=>
+      string(2) "in"
+      ["name"]=>
+      string(27) "Михаил Шевелёв"
+      ["pre"]=>
+      string(23) "Москва, 21 год"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/829a732a7f09c31e444a73e995372ced.png"
+      ["date"]=>
+      string(19) "2016-12-29 16:17:00"
+    }
+    [11]=>
+    object(stdClass)#70 (9) {
+      ["id"]=>
+      string(1) "5"
+      ["title"]=>
+      string(154) "Дисплей прошлый не так ярко передавал цвета. Так что за качество этих ребят ручаюсь) "
+      ["text"]=>
+      string(451) "@imolodec мне оперативно починили телефон) спасибо за совет) и! Я не думала, что такая будет разница в цветопередаче! Дисплей прошлый не так ярко передавал цвета. Так что за качество этих ребят ручаюсь) ну и цены супер)
+imolodec@youryani большое спасибо за отзыв"
+      ["link"]=>
+      string(58) "https://www.instagram.com/p/BOPGOzgBEbZ/?taken-by=youryani"
+      ["type"]=>
+      string(2) "in"
+      ["name"]=>
+      string(27) "Яна Ятсковская"
+      ["pre"]=>
+      string(0) ""
+      ["avatar"]=>
+      string(58) "/iphone/images/social/0b2afaf7a36a9e2f7fd59d223ab6ce2f.png"
+      ["date"]=>
+      string(19) "2016-12-20 16:00:00"
+    }
+    [12]=>
+    object(stdClass)#71 (9) {
+      ["id"]=>
+      string(1) "4"
+      ["title"]=>
+      string(64) "Ай,молодец - очень достойный сервис"
+      ["text"]=>
+      string(273) "Хочу поделится с вами очень быстрым и качественным ремонтом айфонов аймолодец.рф. Всего за 15 минут оживили моего любимчика. Доверяю теперь только им."
+      ["link"]=>
+      string(67) "https://www.instagram.com/p/BNZtXMeg7Fo/?taken-by=lyubalishnevskaya"
+      ["type"]=>
+      string(2) "in"
+      ["name"]=>
+      string(29) "Люба Лишневская"
+      ["pre"]=>
+      string(25) "Москва, 24 года"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/f304037dcd97a5c28b28ac16e5ba0ea0.png"
+      ["date"]=>
+      string(19) "2016-12-19 11:11:00"
+    }
+    [13]=>
+    object(stdClass)#72 (9) {
+      ["id"]=>
+      string(1) "3"
+      ["title"]=>
+      string(156) "Первоклассное обслуживание, и никаких денег не стоит!) ну оооочень осталась довольна!"
+      ["text"]=>
+      string(342) "Спасибо вам большое)) с этой работой совсем нет времени доехать до вас, а звонить то нужно) очень оперативно сработали) спасибо вам большое за это!) очень довольна и будь обращаться дальше!!"
+      ["link"]=>
+      string(58) "https://www.instagram.com/p/BNeOgeDBZuQ/?taken-by=imolodec"
+      ["type"]=>
+      string(2) "in"
+      ["name"]=>
+      string(29) "Мариам Токотлян"
+      ["pre"]=>
+      string(25) "москва, 22 года"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/6a944e8f6f6e053adfbdffcb5c9cf5df.png"
+      ["date"]=>
+      string(19) "2016-12-19 11:10:00"
+    }
+    [14]=>
+    object(stdClass)#73 (9) {
+      ["id"]=>
+      string(1) "2"
+      ["title"]=>
+      string(69) "Когда разбивается айфон - мир рушится!"
+      ["text"]=>
+      string(147) "Этот день начался с того, что я разбила свой телефон и, казалось, - весь мир рухнул"
+      ["link"]=>
+      string(58) "https://www.instagram.com/p/BNuMGxpB1Te/?taken-by=imolodec"
+      ["type"]=>
+      string(2) "in"
+      ["name"]=>
+      string(31) "Анна Звиджинская"
+      ["pre"]=>
+      string(23) "москва, 27 лет"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/6474e76923719dae52aec5a1baab3519.png"
+      ["date"]=>
+      string(19) "2016-12-19 11:06:00"
+    }
+    [15]=>
+    object(stdClass)#74 (9) {
+      ["id"]=>
+      string(1) "1"
+      ["title"]=>
+      string(46) "Tesla одобряет аймолодец.рф"
+      ["text"]=>
+      string(134) "Большое спасибо за хороший сервис, вежливых мастеров и соблюдение сроков"
+      ["link"]=>
+      string(40) "https://www.instagram.com/p/BNeOgeDBZuQ/"
+      ["type"]=>
+      string(2) "vk"
+      ["name"]=>
+      string(17) "Moscow tesla club"
+      ["pre"]=>
+      string(12) "москва"
+      ["avatar"]=>
+      string(58) "/iphone/images/social/978cdf2d67878687eb08876a30aac47e.png"
+      ["date"]=>
+      string(19) "2016-12-19 11:04:00"
+    }
+  }
+  ["phones"]=>
+  array(12) {
+    [0]=>
+    object(stdClass)#75 (4) {
+      ["id"]=>
+      string(2) "10"
+      ["title"]=>
+      string(9) "iPhone SE"
+      ["alias"]=>
+      string(9) "iphone-se"
+      ["image"]=>
+      string(36) "c492b82b47eed7875702c2a952c5f72c.png"
+    }
+    [1]=>
+    object(stdClass)#76 (4) {
+      ["id"]=>
+      string(2) "12"
+      ["title"]=>
+      string(8) "iPhone 7"
+      ["alias"]=>
+      string(8) "iphone-7"
+      ["image"]=>
+      string(36) "e74c39ca0478368d5542ed77af4cc456.png"
+    }
+    [2]=>
+    object(stdClass)#77 (4) {
+      ["id"]=>
+      string(1) "9"
+      ["title"]=>
+      string(14) "iPhone 6S Plus"
+      ["alias"]=>
+      string(14) "iphone-6s-plus"
+      ["image"]=>
+      string(36) "c4021a49567350370d8a30b1e11b58e7.png"
+    }
+    [3]=>
+    object(stdClass)#78 (4) {
+      ["id"]=>
+      string(1) "8"
+      ["title"]=>
+      string(9) "iPhone 6S"
+      ["alias"]=>
+      string(9) "iphone-6s"
+      ["image"]=>
+      string(36) "ee974dafb8a8d37e4631deb4ce365353.png"
+    }
+    [4]=>
+    object(stdClass)#79 (4) {
+      ["id"]=>
+      string(1) "6"
+      ["title"]=>
+      string(13) "iPhone 6 Plus"
+      ["alias"]=>
+      string(13) "iphone-6-plus"
+      ["image"]=>
+      string(36) "7a15eeccc150e821c3fcedcbb190db74.png"
+    }
+    [5]=>
+    object(stdClass)#80 (4) {
+      ["id"]=>
+      string(1) "1"
+      ["title"]=>
+      string(8) "iPhone 6"
+      ["alias"]=>
+      string(8) "iphone-6"
+      ["image"]=>
+      string(36) "d426911f33e1944e1054b1d7639bac1a.jpg"
+    }
+    [6]=>
+    object(stdClass)#81 (4) {
+      ["id"]=>
+      string(1) "7"
+      ["title"]=>
+      string(10) "iPhone 5С"
+      ["alias"]=>
+      string(9) "iphone-5s"
+      ["image"]=>
+      string(36) "50adbbc793e982fa712947eebc002c88.png"
+    }
+    [7]=>
+    object(stdClass)#82 (4) {
+      ["id"]=>
+      string(1) "5"
+      ["title"]=>
+      string(9) "iPhone 5S"
+      ["alias"]=>
+      string(9) "iphone-5s"
+      ["image"]=>
+      string(36) "35051c1da850323853a02e896f33b0a4.png"
+    }
+    [8]=>
+    object(stdClass)#83 (4) {
+      ["id"]=>
+      string(1) "4"
+      ["title"]=>
+      string(8) "iPhone 5"
+      ["alias"]=>
+      string(8) "iphone-5"
+      ["image"]=>
+      string(36) "d2b8339509cde19101dfe59b9ce934d1.jpg"
+    }
+    [9]=>
+    object(stdClass)#84 (4) {
+      ["id"]=>
+      string(1) "2"
+      ["title"]=>
+      string(9) "iPhone 4S"
+      ["alias"]=>
+      string(9) "iphone-4s"
+      ["image"]=>
+      string(36) "826c77cab5f3db7c268a9eedf88f7e5c.jpg"
+    }
+    [10]=>
+    object(stdClass)#85 (4) {
+      ["id"]=>
+      string(1) "3"
+      ["title"]=>
+      string(8) "iPhone 4"
+      ["alias"]=>
+      string(8) "iphone-4"
+      ["image"]=>
+      string(36) "8c9a43eed8c879f83b7d8832c85dc35e.jpg"
+    }
+    [11]=>
+    object(stdClass)#86 (4) {
+      ["id"]=>
+      string(2) "11"
+      ["title"]=>
+      string(6) "IPhone"
+      ["alias"]=>
+      string(6) "iphone"
+      ["image"]=>
+      string(36) "22d4fd67b1cddd9a6a9dfc65d1efd6a8.png"
+    }
+  }
+  ["message"]=>
+  NULL
+  ["pageclass"]=>
+  string(4) "main"
+  ["meta"]=>
+  array(3) {
+    ["title"]=>
+    string(64) "Выездной сервис ремонта вашего iPhone"
+    ["description"]=>
+    string(64) "Выездной сервис ремонта вашего iPhone"
+    ["keywords"]=>
+    string(64) "Выездной сервис ремонта вашего iPhone"
+  }
+}
+				</pre>
+			</div>
+			<div class="services_list">
+				<div>
+									<div class="item ">
+						<a href="/iphone/?phone_id=7&service_id=29" class="cover">Подробнее</a>
+						<b>2230 <span class="rouble">&#8399;</span></b>
+						<span class="title">Замена аккумулятора</span>
+					</div>
+									<div class="item ">
+						<a href="/iphone/?phone_id=7&service_id=5" class="cover">Подробнее</a>
+						<b>3540 <span class="rouble">&#8399;</span></b>
+						<span class="title">Замена дисплея</span>
+					</div>
+									<div class="item ">
+						<a href="/iphone/?phone_id=7&service_id=54" class="cover">Подробнее</a>
+						<b>2200 <span class="rouble">&#8399;</span></b>
+						<span class="title">Замена кнопки Home</span>
+					</div>
+									<div class="item ">
+						<a href="/iphone/?phone_id=7&service_id=76" class="cover">Подробнее</a>
+						<b>2130 <span class="rouble">&#8399;</span></b>
+						<span class="title">Замена кнопки включения</span>
+					</div>
+									<div class="item ">
+						<a href="/iphone/?phone_id=7&service_id=64" class="cover">Подробнее</a>
+						<b>2130 <span class="rouble">&#8399;</span></b>
+						<span class="title">Замена кнопки переключения вибро</span>
+					</div>
+									<div class="item ">
+						<a href="/iphone/?phone_id=7&service_id=87" class="cover">Подробнее</a>
+						<b>2130 <span class="rouble">&#8399;</span></b>
+						<span class="title">Замена кнопок громкости</span>
+					</div>
+									<div class="item ">
+						<a href="/iphone/?phone_id=7&service_id=18" class="cover">Подробнее</a>
+						<b>3480 <span class="rouble">&#8399;</span></b>
+						<span class="title">Замена корпуса</span>
+					</div>
+									<div class="item ">
+						<a href="/iphone/?phone_id=7&service_id=101" class="cover">Подробнее</a>
+						<b>2130 <span class="rouble">&#8399;</span></b>
+						<span class="title">Замена микрофона</span>
+					</div>
+									<div class="item ">
+						<a href="/iphone/?phone_id=7&service_id=109" class="cover">Подробнее</a>
+						<b>2190 <span class="rouble">&#8399;</span></b>
+						<span class="title">Замена основной камеры</span>
+					</div>
+									<div class="item active">
+						<a href="/iphone/?phone_id=7&service_id=119" class="cover">Подробнее</a>
+						<b>2190 <span class="rouble">&#8399;</span></b>
+						<span class="title">Замена передней камеры</span>
+					</div>
+									<div class="item ">
+						<a href="/iphone/?phone_id=7&service_id=138" class="cover">Подробнее</a>
+						<b>2130 <span class="rouble">&#8399;</span></b>
+						<span class="title">Замена полифонического динамика</span>
+					</div>
+									<div class="item ">
+						<a href="/iphone/?phone_id=7&service_id=40" class="cover">Подробнее</a>
+						<b>2190 <span class="rouble">&#8399;</span></b>
+						<span class="title">Замена слухового динамика </span>
+					</div>
+								</div>
+			</div>
+		</div>
+	</div>
+			<div class="container-fluid row3">
+			<div class="container">
+				<div class="text-center">
+					<h3>Вызови мастера прямо сейчас<br/>и получи подарок</h3><br/>
+					<div class="row">
+						<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+							<img src="/iphone/images/phones/50adbbc793e982fa712947eebc002c88.png" alt="iPhone 5С"/>
+							<p>Замена передней камеры</p>
+						</div>
+						<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1">
+							<div><img src="images/plus.png" /></div>
+						</div>
+													<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+							<img src="/iphone/images/gifts/0cb527b6b453afd2dee8c88511e6b693.png" alt="НА ВЫБОР "/>
+								<p class="choise">НА ВЫБОР </p>
+								<p>Чехол в подарок</p>
+							</div>
+															<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1">
+									<div><span class="qq">или</span></div>
+								</div>
+																				<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+							<img src="/iphone/images/gifts/b7959bdd55495c14e182f8c0f0636f32.png" alt="НА ВЫБОР "/>
+								<p class="choise">НА ВЫБОР </p>
+								<p>Защитное стекло в подарок</p>
+							</div>
+																			<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1">
+							<div><img src="images/eq.png" /></div>
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 text-left">
+							<div class="orange">
+																	<h4>3690 Р</h4>
+																									<h2>2190 Р</h2>
+																<p>итоговая цена с учетом выезда мастера и запчастей</p>
+							</div>
+							<img src="images/lopatnik.png" alt="" />
+							<p class="wal">Мы принимаем оплату как наличными, так и банковской картой. Прямо на месте, без %</p>
+							<p class="text-center"><img src="images/arrow.png" alt="" class="arrow" /></p>
+						</div>
+					</div>
+				</div>	
+			</div>
+		</div>
+		<div class="container-fluid row4">
+		<div class="container">
+			<form action="/iphone/contacts" method="post" class="call">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 text-center">
+						До конца
+						акции осталось:
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+						<div id="timer" class="timer"></div>
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+						<input type="text" class="form-control r" name="phone" id="phone" placeholder="Ваш номер телефона" />
+					</div>
+					<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+						<button type="submit" name="submit" value="send" class="btn btn-default">Бесплатная консультация</button>
+					</div>
+				</div>
+			</form>
+			<script type="text/javascript">
+				$(function(){
+
+					$('#timer').countdown({
+						until: shortly, 
+						format: 'HMS'
+					});
+				});
+			</script>
+		</div>
+	</div>
+	<div class="container-fluid row5">
+		<div class="container">
+							<h3 class="text-center">Порядок оказания услуги</h3>
+				<div class="stages">
+											<div class="stage">
+							<span class="before">1</span>
+							<p>Вы назначаете встречу<br />
+в вашем офисе, в кафе, дома...</p>
+						</div>
+																<div class="stage">
+							<span class="before">2</span>
+							<p>Выездной мастер приедет<br />
+в удобное для вас время</p>
+						</div>
+																<div class="stage">
+							<span class="before">4</span>
+							<p>Примет оплату, выдаст чек<br />
+и гарантию на 1 месяц</p>
+						</div>
+																<div class="stage">
+							<span class="before">3</span>
+							<p>Произведет замену детали<br />
+за 20 минут</p>
+						</div>
+									</div>
+						<div class="container">
+				<div class="row">
+					<form action="/iphone/contacts" method="post" class="recall">
+						<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+							<input type="text" class="form-control r" name="name" id="name" placeholder="Ваше имя" />
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+							<input type="text" class="form-control r" name="phone" id="phone" placeholder="Ваш номер телефона" />
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+							<input type="text" class="form-control r" name="address" id="address" placeholder="Ваш адрес" />
+						</div>
+						<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
+							<div class="form-group">
+							    <div class='input-group date' id='datetimepicker2'>
+							        <input type='text' class="form-control r" name="date" placeholder="Дата и время" />
+							        <span class="input-group-addon">
+							            <span class="glyphicon glyphicon-calendar"></span>
+							        </span>
+							    </div>
+							</div>
+						</div>
+						<div class="clr"></div>
+						<br/>
+						<div class="row text-center">
+							<button type="submit" name="submit" value="send" class="btn btn-default">Бесплатная консультация</button>
+						</div>
+					</form>	
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container-fluid row6">
+		<div class="container">
+			<h3 class="text-center">Отзывы наших клиентов</h3>
+			<div class="row" id="rtabs">
+				<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2"></div>
+									<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+						<a href="#tab-1" class="tab active">Аудио</a>
+					</div>
+													<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+						<a href="#tab-2" class="tab">Звезды</a>
+					</div>
+													<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+						<a href="#tab-3" class="tab">Компании</a>
+					</div>
+													<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2">
+						<a href="#tab-4" class="tab">Соц сети</a>
+					</div>
+								<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2"></div>
+			</div>
+			<div class="tabs">
+									<div class="row tab active" id="tab-1">
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="row">
+									<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 images">
+										<a target="_blank" class="img">
+											<img src="/iphone/images/audios/3e954276632cdf116ebde36cddcd3390.png" alt="" />
+										</a>
+									</div>
+									<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 name">
+										<a target="_blank"><b>Александр</b></a>
+										<p>Москва, 29 лет</p>
+									</div>
+									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 audio">
+										<audio controls>
+											<source src="/iphone/audio/f248ac901765481c1512d7e247e2b8c8.mp3">
+											<p>Ваш браузер не поддерживает аудио</p>
+										</audio>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="row">
+									<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 images">
+										<a target="_blank" class="img">
+											<img src="/iphone/images/audios/22c781f79750164a6b49abd2764f32bc.png" alt="" />
+										</a>
+									</div>
+									<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 name">
+										<a target="_blank"><b>Юрий</b></a>
+										<p>Москва, 26 лет</p>
+									</div>
+									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 audio">
+										<audio controls>
+											<source src="/iphone/audio/36295533e9dfbbc18348119e89495b51.mp3">
+											<p>Ваш браузер не поддерживает аудио</p>
+										</audio>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="row">
+									<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 images">
+										<a target="_blank" class="img">
+											<img src="/iphone/images/audios/3ed612f71ee639b37440c97a165de5ca.png" alt="" />
+										</a>
+									</div>
+									<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 name">
+										<a target="_blank"><b>Павел</b></a>
+										<p>Москва, 32 года</p>
+									</div>
+									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 audio">
+										<audio controls>
+											<source src="/iphone/audio/44d5631fcf13d15ce5a25df48992c764.mp3">
+											<p>Ваш браузер не поддерживает аудио</p>
+										</audio>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="row">
+									<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2 images">
+										<a target="_blank" class="img">
+											<img src="/iphone/images/audios/6c13075f3bd0294e8211eeb9e0851611.png" alt="" />
+										</a>
+									</div>
+									<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 name">
+										<a target="_blank"><b>Денис</b></a>
+										<p>Москва, 35 лет</p>
+									</div>
+									<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 audio">
+										<audio controls>
+											<source src="/iphone/audio/1b0619aabcabaf4638d9df7fcd9e02f9.mp3">
+											<p>Ваш браузер не поддерживает аудио</p>
+										</audio>
+									</div>
+								</div>
+							</div>
+											</div>
+													<div class="row tab" id="tab-2">
+													<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/stars/a88a0c7c6a0f8b8cbbb4914a5262a985.png" alt="Катрин Рвиза" />
+								<p><b>Катрин Рвиза</b></p>
+								<p>Победитель шоу «Каникулы в Мексике»</p>
+							</div>
+													<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/stars/4c9fa52a0608f3aeb9596e98e6167bac.png" alt="Виктория Черенцова" />
+								<p><b>Виктория Черенцова</b></p>
+								<p>Певица</p>
+							</div>
+													<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/stars/920bff5f58c6bfa3a3ab90559111b5de.png" alt="Николай Попов" />
+								<p><b>Николай Попов</b></p>
+								<p>Продюсер Муз ТВ</p>
+							</div>
+													<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/stars/ab727916d34e467f3ef50bbdaa96adfe.png" alt="Иван Барзиков" />
+								<p><b>Иван Барзиков</b></p>
+								<p>Герой «Дом-2»</p>
+							</div>
+													<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/stars/0160b8b3a0027e4cbc1bb6f124ca45ce.png" alt="Айза Анохина" />
+								<p><b>Айза Анохина</b></p>
+								<p>Дизайнер и модельер</p>
+							</div>
+													<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/stars/e84710bdcadb719daacbd66ec0ff81e8.png" alt="Андрей Афонин" />
+								<p><b>Андрей Афонин</b></p>
+								<p>Известный блогер</p>
+							</div>
+											</div>
+													<div class="row tab" id="tab-3">
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/7e7c5167f285e7254e0ad394046e2d8f.png" alt="Мегафон" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/26d036ada8078eb14e2c00140fd35c25.png" alt="россия 1" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/1cca7ccf5696c506108d732cd0ab27c6.png" alt="мерс" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/24095add37a10a5e3135bfd40da7c41b.png" alt="ворлд" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/5bda95d9b850dcdd9f73574be084a615.png" alt="каспер" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/ac75537a9c97380e4f954ce0eed23f51.png" alt="к" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/4eb60f0ad2a8ae9d4e18b88774e49a3e.png" alt="ламода" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/335f53326f3cc9e17198cd73fc5dfed3.png" alt="тойота" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/f467d20caa4432ae626a18e9784c294b.png" alt="кларинс" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/7f6fbe06cf59807ed5738950e7ec9131.png" alt="открыть" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/2fe065a1b40e626277ec72ad0b61f1ac.png" alt="а" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/adf3eff48b2dc40e471e0e67d9798d80.png" alt="татнефть" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/c65422f70019da7beaa761331baa720b.png" alt="роснефть" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/5788d9ed1f62ce98e066d553296efb46.png" alt="Вольво" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/8fb3dda7b53f31ad55219b793c8d1e4c.png" alt="лукойл" />
+							</div>
+													<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 text-center review_coll">
+								<img src="/iphone/images/companies/891e1548d29369117e0b26e1ce10a7bc.png" alt="порш" />
+							</div>
+											</div>
+													<div class="row tab" id="tab-4">
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Спасибо огромное, оба телефона работают</h4>
+									<p class="intro">Снова могу делать кучу бессмысленных селфи) Мне отремонтировали телефон, я рада, спасибо!</p>
+									<p><a href="https://www.instagram.com/p/BMBmPbBhl9i/" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="https://www.instagram.com/p/BMBmPbBhl9i/" class="im "></a>
+										<a target="_blank" href="https://www.instagram.com/p/BMBmPbBhl9i/" class="img">
+											<img src="/iphone/images/social/28bc1a41f0f2c2dee51dc6d81651989d.png" alt="Наталия" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="https://www.instagram.com/p/BMBmPbBhl9i/" target="_blank"><b>Наталия</b></a>
+										<p>Москва, 27 лет</p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Берегите близких и свои айфоны</h4>
+									<p class="intro">Сегодня была у своих друзей и мастеров на все руки по части ремонта айфонов !)) Айдабраво, айдамолодцы! выезжают на место "трагедии" вашего айфона! Делают быстро и цена по рынку очень даже)) дешевле, чем я делала в прошлый раз!</p>
+									<p><a href="https://www.instagram.com/p/BMFGWYlAIAG/" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="https://www.instagram.com/p/BMFGWYlAIAG/" class="im "></a>
+										<a target="_blank" href="https://www.instagram.com/p/BMFGWYlAIAG/" class="img">
+											<img src="/iphone/images/social/38abae5c7bd077ceb419646b92fa7a5a.png" alt="Анастасия Белочкина " />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="https://www.instagram.com/p/BMFGWYlAIAG/" target="_blank"><b>Анастасия Белочкина </b></a>
+										<p>Москва, 27 лет</p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Ай да молодцы! Теперь только к вам!</h4>
+									<p class="intro">Я и котик хотим сказать огромное Спасибо компании аймолодец и в частности мастеру Александру, за то что быстро, интересно и очень качественно поменяли мне экран. Я сталкивалась изначально с обманщиками и была очень рада наконец встретить профессионалов своего дела, отличный сервис и добросовестную работу. И ещё просто приятных людей! В следующий раз только к Вам!</p>
+									<p><a href="https://www.instagram.com/p/BMHWCkoBVIs/" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="https://www.instagram.com/p/BMHWCkoBVIs/" class="im in"></a>
+										<a target="_blank" href="https://www.instagram.com/p/BMHWCkoBVIs/" class="img">
+											<img src="/iphone/images/social/ae7536a3af5aa1d7feaaba358bdb4ff4.png" alt="Катарина Детковская" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="https://www.instagram.com/p/BMHWCkoBVIs/" target="_blank"><b>Катарина Детковская</b></a>
+										<p>Москва, 25 лет</p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Мне починили экран за 15 минут</h4>
+									<p class="intro">Есть среди вас такие же "рукожопы" как я, для которых разбить экран - обычное и привычное дело? Если да - отзовитесь! У меня для вас есть хорошая находка - сервис по ремонту телефонов @imolodec! Мне починили экран за 15 (❕) минут. Подписывайтесь на ребят, чтобы не потерять!</p>
+									<p><a href="" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="" class="im "></a>
+										<a target="_blank" href="" class="img">
+											<img src="/iphone/images/social/1f2901911e61e918d653461bf027dbd7.png" alt="  Юлия Железнякова Москва" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="" target="_blank"><b>  Юлия Железнякова Москва</b></a>
+										<p>Москва, 21 год</p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Рекомендую ай,молодец!</h4>
+									<p class="intro">Совсем недавно на одной съемке пострадал мой iPhone. А без него я иногда как без рук! Но ребята из @imolodec выручили меня и восстановили мой гаджет очень быстро.</p>
+									<p><a href="" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="" class="im in"></a>
+										<a target="_blank" href="" class="img">
+											<img src="/iphone/images/social/491f096be94ab81f54156ea2382adf75.png" alt="Георгий Ланчевский" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="" target="_blank"><b>Георгий Ланчевский</b></a>
+										<p>Москва, 23 года</p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Всего через час мастер на моих глазах вернул моё устройство к жизни</h4>
+									<p class="intro">Какой бы ты аккуратный не был, но iPhone бывает вылетает из рук. Именно так началось моё утро. Свой новенький iPhone, случайно, уронил на Красной площади. Подняв его, обнаружил разбитый экран и не работающую кнопку блокировки. Очень расстроился, но вспомнил о крутом сервисе @imolodec, с низкими ценами и качественным обслуживанием, позвонил и описал проблемы мастеру. Всего через час я встретился с ним и он на моих глазах вернул моё устройство к жизни. Поэтому от души рекомендую подписаться на ребят и записать контакты этого чудесного сервиса аймолодец.рф</p>
+									<p><a href="https://www.instagram.com/p/BMJmlo0ji_M/" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="https://www.instagram.com/p/BMJmlo0ji_M/" class="im in"></a>
+										<a target="_blank" href="https://www.instagram.com/p/BMJmlo0ji_M/" class="img">
+											<img src="/iphone/images/social/e5a7d9c501ca557d441fa10b570a5059.jpg" alt="21depth" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="https://www.instagram.com/p/BMJmlo0ji_M/" target="_blank"><b>21depth</b></a>
+										<p>Москва, 23 года</p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Все супер спасибо</h4>
+									<p class="intro">Мой телефон ожил! Мастер из "ай,молодец" приехал, оставили подменный айфон на время ремонта, за сутки всё починили. Супер спасибо, аймолодец!</p>
+									<p><a href="" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="" class="im in"></a>
+										<a target="_blank" href="" class="img">
+											<img src="/iphone/images/social/e6d2a388b800607b540e4a67873bac65.png" alt="Евгений" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="" target="_blank"><b>Евгений</b></a>
+										<p>Москва, 34 года</p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Выражаю огромную благодарность мастеру из сервиса</h4>
+									<p class="intro">Зима - время разочарований Вчера мы чуть не потеряли наш новенький #ipad Выражаю огромную благодарность мастеру из сервиса @imolodec за оперативную помощь! Приехал менее чем за час и за 20 минут решил нашу проблему! Всем советую!</p>
+									<p><a href="https://www.instagram.com/p/BMlzEOvgdpz/" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="https://www.instagram.com/p/BMlzEOvgdpz/" class="im "></a>
+										<a target="_blank" href="https://www.instagram.com/p/BMlzEOvgdpz/" class="img">
+											<img src="/iphone/images/social/6b162cadc16c4db1e07cf33fa8801404.png" alt="Иван Барзиков" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="https://www.instagram.com/p/BMlzEOvgdpz/" target="_blank"><b>Иван Барзиков</b></a>
+										<p>Москва, 27 лет</p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Спасибо огромное, такое чувство, что подарили мне новый телефон!!! ✨</h4>
+									<p class="intro">Это не плохо, а просто факт: гаджеты - огромная часть нашей жизни. Особенно для тех, кто работает в медиа-пространстве. Да, я постоянно за телефоном, но вопреки убеждениям и стереотипам, это нисколько не мешает оставаться в реальном мире, наслаждаться им (коллеги поймут). Когда же гаджет настойчиво посылает тебя куда подальше, отказываясь работать, наступает настоящая катастрофа. Работа, связь с близкими за 9000 км., элементарно будильник - все накрывается медным тазом и сидишь ты в неведении, одиноко поглаживая кота</p>
+									<p><a href="https://www.instagram.com/p/BMy72llgkyM/" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="https://www.instagram.com/p/BMy72llgkyM/" class="im in"></a>
+										<a target="_blank" href="https://www.instagram.com/p/BMy72llgkyM/" class="img">
+											<img src="/iphone/images/social/63e189fe74f876b2808d0f9ab3af0a24.png" alt="Юлия Ли" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="https://www.instagram.com/p/BMy72llgkyM/" target="_blank"><b>Юлия Ли</b></a>
+										<p>Москва, 22 года</p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Всем рекомендую! Хорошая команда!</h4>
+									<p class="intro">Классный сервис по ремонту!!! Просто так денег не берут, только за то что сделали. У моего друга сломался телефон, и случилась какая то проблема что его не возможно было отремонтировать. Спасибо ребятам что вытащили данные перенесли на новый, и всего на всего за 1000 рублей! Причём провозились целый день! Всем рекомендую! Хорошая команда!</p>
+									<p><a href="https://www.instagram.com/p/BNJjUvsBH3t/" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="https://www.instagram.com/p/BNJjUvsBH3t/" class="im in"></a>
+										<a target="_blank" href="https://www.instagram.com/p/BNJjUvsBH3t/" class="img">
+											<img src="/iphone/images/social/29f11879e3aa86acfd6c146e616ccee7.jpg" alt="Михаил" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="https://www.instagram.com/p/BNJjUvsBH3t/" target="_blank"><b>Михаил</b></a>
+										<p>Москва, 22 года</p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Спасибо огромное ребятам аймолодец.рф что быстро приехали и заменили мне аккумулятор</h4>
+									<p class="intro">Спасибо огромное ребятам @imolodec что быстро приехали и заменили мне аккумулятор, но главное поставили новый оригинальный дисплей на мою 6ку!!! Теперь не могу нарадоваться, словно ребёнок,что телефон все же смогли спасти, а я спокойно могу вести соц.сети</p>
+									<p><a href="https://www.instagram.com/p/BNMEfIHgVi-/" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="https://www.instagram.com/p/BNMEfIHgVi-/" class="im in"></a>
+										<a target="_blank" href="https://www.instagram.com/p/BNMEfIHgVi-/" class="img">
+											<img src="/iphone/images/social/829a732a7f09c31e444a73e995372ced.png" alt="Михаил Шевелёв" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="https://www.instagram.com/p/BNMEfIHgVi-/" target="_blank"><b>Михаил Шевелёв</b></a>
+										<p>Москва, 21 год</p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Дисплей прошлый не так ярко передавал цвета. Так что за качество этих ребят ручаюсь) </h4>
+									<p class="intro">@imolodec мне оперативно починили телефон) спасибо за совет) и! Я не думала, что такая будет разница в цветопередаче! Дисплей прошлый не так ярко передавал цвета. Так что за качество этих ребят ручаюсь) ну и цены супер)<br />
+imolodec@youryani большое спасибо за отзыв</p>
+									<p><a href="https://www.instagram.com/p/BOPGOzgBEbZ/?taken-by=youryani" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="https://www.instagram.com/p/BOPGOzgBEbZ/?taken-by=youryani" class="im in"></a>
+										<a target="_blank" href="https://www.instagram.com/p/BOPGOzgBEbZ/?taken-by=youryani" class="img">
+											<img src="/iphone/images/social/0b2afaf7a36a9e2f7fd59d223ab6ce2f.png" alt="Яна Ятсковская" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="https://www.instagram.com/p/BOPGOzgBEbZ/?taken-by=youryani" target="_blank"><b>Яна Ятсковская</b></a>
+										<p></p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Ай,молодец - очень достойный сервис</h4>
+									<p class="intro">Хочу поделится с вами очень быстрым и качественным ремонтом айфонов аймолодец.рф. Всего за 15 минут оживили моего любимчика. Доверяю теперь только им.</p>
+									<p><a href="https://www.instagram.com/p/BNZtXMeg7Fo/?taken-by=lyubalishnevskaya" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="https://www.instagram.com/p/BNZtXMeg7Fo/?taken-by=lyubalishnevskaya" class="im in"></a>
+										<a target="_blank" href="https://www.instagram.com/p/BNZtXMeg7Fo/?taken-by=lyubalishnevskaya" class="img">
+											<img src="/iphone/images/social/f304037dcd97a5c28b28ac16e5ba0ea0.png" alt="Люба Лишневская" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="https://www.instagram.com/p/BNZtXMeg7Fo/?taken-by=lyubalishnevskaya" target="_blank"><b>Люба Лишневская</b></a>
+										<p>Москва, 24 года</p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Первоклассное обслуживание, и никаких денег не стоит!) ну оооочень осталась довольна!</h4>
+									<p class="intro">Спасибо вам большое)) с этой работой совсем нет времени доехать до вас, а звонить то нужно) очень оперативно сработали) спасибо вам большое за это!) очень довольна и будь обращаться дальше!!</p>
+									<p><a href="https://www.instagram.com/p/BNeOgeDBZuQ/?taken-by=imolodec" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="https://www.instagram.com/p/BNeOgeDBZuQ/?taken-by=imolodec" class="im in"></a>
+										<a target="_blank" href="https://www.instagram.com/p/BNeOgeDBZuQ/?taken-by=imolodec" class="img">
+											<img src="/iphone/images/social/6a944e8f6f6e053adfbdffcb5c9cf5df.png" alt="Мариам Токотлян" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="https://www.instagram.com/p/BNeOgeDBZuQ/?taken-by=imolodec" target="_blank"><b>Мариам Токотлян</b></a>
+										<p>москва, 22 года</p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Когда разбивается айфон - мир рушится!</h4>
+									<p class="intro">Этот день начался с того, что я разбила свой телефон и, казалось, - весь мир рухнул</p>
+									<p><a href="https://www.instagram.com/p/BNuMGxpB1Te/?taken-by=imolodec" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="https://www.instagram.com/p/BNuMGxpB1Te/?taken-by=imolodec" class="im in"></a>
+										<a target="_blank" href="https://www.instagram.com/p/BNuMGxpB1Te/?taken-by=imolodec" class="img">
+											<img src="/iphone/images/social/6474e76923719dae52aec5a1baab3519.png" alt="Анна Звиджинская" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="https://www.instagram.com/p/BNuMGxpB1Te/?taken-by=imolodec" target="_blank"><b>Анна Звиджинская</b></a>
+										<p>москва, 27 лет</p>
+									</div>
+								</div>
+							</div>
+													<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 review_coll">
+								<div class="text">
+									<h4>Tesla одобряет аймолодец.рф</h4>
+									<p class="intro">Большое спасибо за хороший сервис, вежливых мастеров и соблюдение сроков</p>
+									<p><a href="https://www.instagram.com/p/BNeOgeDBZuQ/" target="_blank">Смотреть оригинал</a></p>
+								</div>
+								<div class="row">
+									<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 images">
+										<a target="_blank" href="https://www.instagram.com/p/BNeOgeDBZuQ/" class="im vk"></a>
+										<a target="_blank" href="https://www.instagram.com/p/BNeOgeDBZuQ/" class="img">
+											<img src="/iphone/images/social/978cdf2d67878687eb08876a30aac47e.png" alt="Moscow tesla club" />
+										</a>
+									</div>
+									<div class="col-lg-9 col-md-9 col-sm-9 col-xs-9">
+										<a target="_blank" href="https://www.instagram.com/p/BNeOgeDBZuQ/" target="_blank"><b>Moscow tesla club</b></a>
+										<p>москва</p>
+									</div>
+								</div>
+							</div>
+											</div>
+							</div>
+		</div>
+	</div>	
+	<div class="container-fluid row7">
+		<div class="container">
+			<h2 class="text-center">ОСТАЛИСЬ ВОПРОСЫ?</h2>
+			<div class="row">
+				<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2"></div>
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 text-center">
+					<p>Звоните нам бесплатно</p>
+					<h3>8 800 200 00 56</h3>
+				</div>
+				<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 text-center">
+					<p>Пишите нам в WhatsApp</p>
+					<h3>+7 916 538 33 33</h3>
+				</div>
+				<div class="col-lg-2 col-md-2 col-sm-2 col-xs-2"></div>
+			</div>
+							<div class="text-center">
+					<a href="#faq" class="btn">Читайте наш FAQ</a>
+				</div>
+					</div>
+	</div>
+			<div id="faq" class="container-fluid row8">
+			<div class="container">
+				<h3 class="text-center">Часто задаваемые вопросы</h3>
+				<div class="row">
+					<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1"></div>
+					<div class="col-lg-10 col-md-10 col-sm-10 col-xs-10 text-center">
+						<p><strong>Почему при включении фронтальной камеры экран черный и горит надпись &ldquo;вспышка выключена, перед использованием вспышки iphone требует охлаждения&rdquo; </strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Проблема связана с неполадками контроллера вспышки на плате.&nbsp;Требуется пайка айфон, замена камеры не решит проблему.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Выезд мастера бесплатный?</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p>Мы выезжаем абсолютно бесплатно в пределах Москвы.</p>
+<p>За выезд до 10-ти км от МКАД &ndash; мы берем отдельную плату за проезд 1000 рублей.</p>
+<p>За выезд до 20-ти км от МКАД &ndash; стоимость выезда мастера 2000 рублей.</p>
+<p>За выезд до 30-ти км от МКАД &ndash; стоимость доплаты составит 3000 рублей.</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Куда мастер может приехать?</strong></p>
+<p>&nbsp;</p>
+<p>Наш мастер может приехать в любую точку Москвы в не зависимости от вашего требования. Это может быть бар, университет, парк, торговый центр. Для ремонта нам потребуется только стол, все необходимые инструменты мы возьмем с собой.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>У вас оригинальные запчасти?</strong></p>
+<p>&nbsp;</p>
+<p>Мы используем запчасти только оригинального качества. Компания Apple не выпускает запасные части для iPhone. Мы закупаем запчасти, которые выполнены по тем же стандартам, что и оригинальные. Поэтому после ремонта, вы не почувствуете разницы от оригинальной детали, а ваши устройства проживут еще очень долго.</p>					</div>
+					<div class="col-lg-1 col-md-1 col-sm-1 col-xs-1"></div>
+				</div>
+			</div>
+		</div>
+		<div id="message" class="message mes hidden"></div>
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-84407926-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+	<!-- Yandex.Metrika counter --> 
+	<script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter38622470 = new Ya.Metrika({ id:38622470, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); 
+	</script> 
+	<noscript>
+		<div><img src="https://mc.yandex.ru/watch/38622470" style="position:absolute; left:-9999px;" alt="" /></div>
+	</noscript> 
+	<!-- /Yandex.Metrika counter -->
+<script type="text/javascript" src="//consultsystems.ru/script/33545/" async charset="utf-8"></script> 
+<link rel="stylesheet" href="https://cdn.envybox.io/widget/cbk.css">
+<script type="text/javascript" src="https://cdn.envybox.io/widget/cbk.js?wcb_code=879c7c4c27c1fcf168461dac2de7a230" charset="UTF-8" async></script></body>
+</html>

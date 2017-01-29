@@ -1,0 +1,127 @@
+@media (max-width: 740px)
+{
+	body
+	{
+		font-size: 14px;
+	}
+	h1
+	{
+		font-size: 250%;
+	}
+	h2,
+	.container-fluid.row1 h2
+	{
+		font-size: 200%;
+	}
+	h3
+	{
+		font-size: 140%;
+	}
+	.btn
+	{
+		max-width: calc(100% - 20px);
+		overflow: hidden;
+	}
+	.container-fluid.row1,
+	.container-fluid.row4 .container
+	{
+		padding: 20% 0;
+		color: white;
+		height: auto!important;
+	}
+	.container-fluid.row7 *,
+	.container-fluid.row8
+	{
+		text-align: center;
+	}
+	.container-fluid.row7 .row
+	{
+		font-size: 150%;
+	}
+	.container-fluid.row6 .row div img {
+		margin-bottom: 20px;
+	}
+	.container-fluid.row6 .row div {
+		text-align: center;
+	}
+	.container-fluid.row4 .row div.wow {
+		margin-bottom: 40px;
+	}
+	.container-fluid.row6 > .text-center > p {
+		width: 90%;
+	}
+	.container-fluid.row7 h1,
+	.container-fluid.row7 p,
+	.container-fluid.row7 h2 {
+		margin-bottom: 0;
+	}
+	.container-fluid.row7 .row p {
+		font-size: 140%;
+	}
+	.container-fluid.row7 h1,
+	.container-fluid.row7 h2 {
+	    font-size: 300%;
+	}
+	.container-fluid.row7 .container > h2 {
+		font-size: 250%;
+		margin-bottom: 50px;
+	}
+	.container-fluid.row7 .row div {
+		margin-bottom: 20px;
+	}
+	.container-fluid.row1 img {
+		margin-bottom: 80px;
+	}
+	.container-fluid.row1 h1 {
+		margin-bottom: 0;
+	}
+	.container-fluid.row1 h2 {
+		margin-bottom: 140px;
+		margin-top: 10px;
+	}
+	.container-fluid.row1 h2 img {
+		display: none;
+	}
+	.tabs > ymaps,
+	.container-fluid.row11 {
+		height: 420px!important;
+	}
+	.menu-wrap .text-center {
+		padding: 8% 0;
+	}
+	.menu-wrap .text-center img {
+		width: 180px;
+	}
+	.menu-wrap .menu ul li {
+		font-size: 150%;
+		clear: both;
+	}
+	.menu-wrap .menu ul li:before {
+		display: none!important;
+	}
+	.formfields {
+	    width: 300px;
+	    padding-top: 50px;
+	}
+	body .fancybox-close {
+		transform: rotate(180deg);
+		right: 0;
+	}
+	.formfields .two input {
+		float: none;
+		width: 100%;
+		margin-left: 0;
+	}
+}
+@media (max-width: 320px)
+{
+	.fancybox-skin {
+		padding: 20px!important;
+	}
+	.menu-wrap .text-center img {
+		display: none!important;
+	}
+	.formfields {
+	    width: 260px;
+	}
+}
