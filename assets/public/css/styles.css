@@ -2076,7 +2076,7 @@ input {
 		height: 30px;
 	}
 	.footer .phones .phone{
-		padding-left: 48px;		
+		padding-left: 48px;
 	}
 	.footer .phones .phone:before{
 		content: '';
@@ -2510,7 +2510,7 @@ table.datetime-form input{ box-sizing: border-box;width:100%;}
 	height: auto;
 	border-bottom: 1px #fff solid;
 	z-index: 3;
-	
+
 	padding-left: 280px;
 	display: none;
 }
@@ -2875,4 +2875,8 @@ ul.advantages li p b {
 	font-size: 400%;
 	font-weight: bold;
 	color: #f1ce76;
+}
+.fa-ruble:before, .fa-rouble:before, .fa-rub:before {
+  content: "UAH";
+  padding-left: 3px;
 }
