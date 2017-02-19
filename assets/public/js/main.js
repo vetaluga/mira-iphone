@@ -90,7 +90,7 @@ $(document).ready(function(){
 		$('.scroll-wrap .close').css('left', $('.repair-modal').offset().left + $('.repair-modal').width() + 'px');
 		$('.repair-header .model span').empty().append($('.price-tabs .active').text());
 		$('.repair-header .model div').empty().append($('.price-tabs .active').parent().parent().find('span').text());
-		
+
 		var left = $(this).find('.left'),
 				right = $(this).find('.right'),
 				service_name = left.find('.service_name').text(),
@@ -110,8 +110,8 @@ $(document).ready(function(){
 		}else{
 			$('.repair-modal .repair-header .price').append('<div class="sum">Под заказ</span>');
 		}
-		
-		if(!autoopen) window.history.pushState("", "", "/p/" + $(this).attr('model-alias') + "/" + $(this).attr('price-alias'));
+
+		// if(!autoopen) window.history.pushState("", "", "/p/" + $(this).attr('model-alias') + "/" + $(this).attr('price-alias'));
 	}
 
 	function card() {
@@ -211,12 +211,12 @@ $(document).ready(function(){
 		$(this).attr('placeholder', $(this).data('placeholder'));
 	});
 
-	phone.mask('+7 (000) 000-00-00');
+	phone.mask('+38 (000) 000-00-00');
 
 	phone.click(function () {
 		$(this).removeClass('error');
 		if ($(this).val().length == 0) {
-			$(this).val('+7 ');
+			$(this).val('+38 ');
 		}
 	});
 	phone.focusout(function () {
@@ -265,7 +265,7 @@ $(document).ready(function(){
 		$('.wheel').addClass('move-stop');
 	});
 
-	
+
 	$('.price-content').height($('.content-tabs').height());
 
 	var lastModel = [];
@@ -281,7 +281,7 @@ $(document).ready(function(){
 		lastModel[$(elm).attr('device_alias')] = $(elm);
 
 		$('.price-content').animate({opacity: 0}, 'fast');
-		window.history.pushState("", "", $(elm).find('a').attr('href'));
+		// window.history.pushState("", "", $(elm).find('a').attr('href'));
 		$('.price-content').load($(elm).find('a').attr('href') + ' .content-tabs',function(){
 			card();
 			$('.price-content').animate({height: ($('.content-tabs').height()),opacity: 1}, 'fast');
