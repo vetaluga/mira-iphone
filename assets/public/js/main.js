@@ -345,3 +345,7 @@ $(window).resize(function(){
 	}
 	$('.scroll-wrap .close').css('left',$('.repair-modal').offset().left + $('.repair-modal').width() + 'px');
 });
+
+$( document ).ready(function() {
+	$(".iphone .active").click();
+});
