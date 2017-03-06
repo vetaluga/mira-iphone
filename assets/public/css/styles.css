@@ -83,7 +83,7 @@ input {
 .main-banner .logo{
 	position: absolute;
 	left: 40px;
-	top: 20px;
+	top: 0;
 	z-index: 3;
 }
 .main-banner .logo span{
