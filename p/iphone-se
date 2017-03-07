@@ -111,8 +111,8 @@
 		<span class="left">
 				<span class="service_name">Наклеить защитное стекло <span class="brackets">(доп. услуга)</span></span>
 		</span>
-		<span class="right" amount="250" sale_amount="">
-													250<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="99" sale_amount="">
+													99<i class="fa fa-rub"></i>															</span>
 
 	</div>
 	<div model-alias="iphone-se" price-alias="pajka-slozhnyj-remont">
