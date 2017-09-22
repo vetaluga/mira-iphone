@@ -1,10 +1,10 @@
 <div class="content-tabs clearfix">
 	<div model-alias="iphone-6" price-alias="zamena-displeya">
 		<span class="left">
-				<span class="service_name">Замена дисплея</span>
+				<span class="service_name">Замена дисплея(оригинал))</span>
 		</span>
-		<span class="right" amount="2900" sale_amount="">
-													2900<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="2000" sale_amount="">
+													2000<i class="fa fa-rub"></i>															</span>
 	</div>
 	<div model-alias="iphone-6" price-alias="zamena-akkumulyatora">
 		<span class="left">
@@ -111,8 +111,8 @@
 		<span class="left">
 				<span class="service_name">Наклеить защитное стекло <span class="brackets">(доп. услуга)</span></span>
 		</span>
-		<span class="right" amount="99" sale_amount="">
-													99<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="250" sale_amount="">
+													250<i class="fa fa-rub"></i>															</span>
 
 	</div>
 	<div model-alias="iphone-6" price-alias="pajka-slozhnyj-remont">
