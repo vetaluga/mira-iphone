@@ -1,17 +1,17 @@
 <div class="content-tabs clearfix">
 	<div model-alias="iphone-4" price-alias="zamena-displeya">
 		<span class="left">
-				<span class="service_name">Замена дисплея</span>
+				<span class="service_name">Замена дисплея (оригинал)</span>
 		</span>
-		<span class="right" amount="850" sale_amount="">
-													850<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="800" sale_amount="">
+													800<i class="fa fa-rub"></i>															</span>
 	</div>
 	<div model-alias="iphone-4" price-alias="zamena-akkumulyatora">
 		<span class="left">
 				<span class="service_name">Замена аккумулятора</span>
 		</span>
-		<span class="right" amount="450" sale_amount="">
-													450<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="300" sale_amount="">
+													300<i class="fa fa-rub"></i>															</span>
 	</div>
 	<div model-alias="iphone-4" price-alias="zamena-sluhovogo-dinamika">
 		<span class="left">
@@ -24,8 +24,8 @@
 		<span class="left">
 				<span class="service_name">Замена кнопки "Home" <span class="brackets">(домой)</span></span>
 		</span>
-		<span class="right" amount="350" sale_amount="">
-													350<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="250" sale_amount="">
+													250<i class="fa fa-rub"></i>															</span>
 	</div>
 	<div model-alias="iphone-4" price-alias="zamena-knopki-pereklyucheniya-vibro">
 		<span class="left">

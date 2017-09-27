@@ -2824,10 +2824,22 @@ ul.advantages li p b {
 }
 
 .row5 {
-	background: url(../images/back.jpg) no-repeat;
+	background: linear-gradient(to right,#1ab696,#1abd76);
 	padding: 60px 0 50px 0;
 	color: #fff;
 	margin-top: 30px;
+	position: relative;
+}
+.row5:after {
+	content: '';
+	position: absolute;
+	background: url(../images/services-back.png) no-repeat;
+	background-position: center right;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	opacity: 0.4;
 }
 .row5 .stages {
 	padding: 25px 0;

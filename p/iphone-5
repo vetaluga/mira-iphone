@@ -10,8 +10,8 @@
 		<span class="left">
 				<span class="service_name">Замена аккумулятора</span>
 		</span>
-		<span class="right" amount="600" sale_amount="">
-													600<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="400" sale_amount="">
+													400<i class="fa fa-rub"></i>															</span>
 	</div>
 	<div model-alias="iphone-5" price-alias="zamena-sluhovogo-dinamika">
 		<span class="left">
@@ -72,6 +72,7 @@
 		<span class="left">
 				<span class="service_name">Замена основной камеры</span>
 		</span>
+
 		<span class="right" amount="550" sale_amount="">
 													550<i class="fa fa-rub"></i>															</span>
 
