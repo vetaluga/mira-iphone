@@ -1,7 +1,7 @@
 <div class="content-tabs clearfix">
 	<div model-alias="ipad-3" price-alias="zamena-displeya">
 		<span class="left">
-				<span class="service_name">Замена дисплея</span>
+				<span class="service_name">Замена дисплея (оригинал)</span>
 		</span>
 		<span class="right" amount="1600" sale_amount="">
 													1600<i class="fa fa-rub"></i>															</span>

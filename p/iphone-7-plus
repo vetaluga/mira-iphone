@@ -1,0 +1,104 @@
+<div class="content-tabs clearfix">
+	<div model-alias="iphone-7-plus" price-alias="zamena-displeya">
+		<span class="left">
+				<span class="service_name">Замена дисплея (оригинал)</span>
+		</span>
+		<span class="right" amount="5999" sale_amount="">
+													5999<i class="fa fa-rub"></i>															</span>
+	</div>
+	<div model-alias="iphone-7-plus" price-alias="zamena-akkumulyatora">
+		<span class="left">
+				<span class="service_name">Замена аккумулятора</span>
+		</span>
+		<span class="right" amount="999" sale_amount="">
+													999<i class="fa fa-rub"></i>															</span>
+	</div>
+	<div model-alias="iphone-7-plus" price-alias="zamena-sluhovogo-dinamika">
+		<span class="left">
+				<span class="service_name">Замена слухового динамика</span>
+		</span>
+		<span class="right" amount="на заказ" sale_amount="">
+												 на заказ<i class="fa fa-rub"></i>															</span>
+	</div>
+	<div model-alias="iphone-7-plus" price-alias="zamena-knopki-home-domoj">
+		<span class="left">
+				<span class="service_name">Замена кнопки "Home" <span class="brackets">(домой)</span></span>
+		</span>
+		<span class="right" amount="999" sale_amount="">
+													999<i class="fa fa-rub"></i>															</span>
+	</div>
+	<div model-alias="iphone-7-plus" price-alias="zamena-knopki-pereklyucheniya-vibro">
+		<span class="left">
+				<span class="service_name">Замена кнопки переключения вибро</span>
+		</span>
+		<span class="right" amount="на заказ" sale_amount="">
+													на заказ<i class="fa fa-rub"></i>															</span>
+	</div>
+	<div model-alias="iphone-7-plus" price-alias="zamena-knopki-vklyucheniya">
+		<span class="left">
+				<span class="service_name">Замена кнопки включения</span>
+		</span>
+		<span class="right" amount="На заказ" sale_amount="">
+													На заказ<i class="fa fa-rub"></i>															</span>
+	</div>
+	<div model-alias="iphone-7-plus" price-alias="zamena-knopok-gromkosti">
+		<span class="left">
+				<span class="service_name">Замена кнопок громкости</span>
+		</span>
+		<span class="right" amount="на заказ" sale_amount="">
+													на заказ<i class="fa fa-rub"></i>															</span>
+	</div>
+	<div model-alias="iphone-7-plus" price-alias="zamena-mikrofona">
+		<span class="left">
+				<span class="service_name">Замена микрофона</span>
+		</span>
+		<span class="right" amount="На заказ" sale_amount="">
+													На заказ<i class="fa fa-rub"></i>															</span>
+	</div>
+	<div model-alias="iphone-7-plus" price-alias="zamena-osnovnoj-kamery">
+		<span class="left">
+				<span class="service_name">Замена основной камеры</span>
+		</span>
+		<span class="right" amount="2499" sale_amount="">
+													2499<i class="fa fa-rub"></i>															</span>
+	</div>
+	<div model-alias="iphone-7-plus" price-alias="zamena-perednej-kamery">
+		<span class="left">
+				<span class="service_name">Замена передней камеры</span>
+		</span>
+		<span class="right" amount="850" sale_amount="">
+													850<i class="fa fa-rub"></i>															</span>
+	</div>
+	<div model-alias="iphone-7-plus" price-alias="zamena-polifonicheskogo-dinamika">
+		<span class="left">
+				<span class="service_name">Замена полифонического динамика</span>
+		</span>
+		<span class="right" amount="На заказ" sale_amount="">
+													На заказ<i class="fa fa-rub"></i>															</span>
+	</div>
+	<div model-alias="iphone-7-plus" price-alias="zamena-razema-zaryadki">
+		<span class="left">
+				<span class="service_name">Замена разъема зарядки</span>
+		</span>
+		<span class="right" amount="800" sale_amount="">
+													800<i class="fa fa-rub"></i>															</span>
+
+	</div>
+	<div model-alias="iphone-7-plus" price-alias="zamena-korpusa-">
+		<span class="left">
+				<span class="service_name">Замена корпуса</span>
+		</span>
+		<span class="right" amount="2899" sale_amount="">
+													нет<i class="fa fa-rub"></i>															</span>
+
+	</div>
+
+	<div model-alias="iphone-7-plus" price-alias="pajka-slozhnyj-remont">
+		<span class="left">
+				<span class="service_name">Пайка <span class="brackets">(сложный ремонт)</span></span>
+		</span>
+		<span class="right" amount="от 4000" sale_amount="">
+													от 4000<i class="fa fa-rub"></i>															</span>
+
+	</div>
+</div>

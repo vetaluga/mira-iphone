@@ -1,7 +1,7 @@
 <div class="content-tabs clearfix">
 	<div model-alias="ipad-mini-3" price-alias="zamena-displeya">
 		<span class="left">
-				<span class="service_name">Замена дисплея</span>
+				<span class="service_name">Замена дисплея (оригинал)</span>
 		</span>
 		<span class="right" amount="2400" sale_amount="">
 													2400<i class="fa fa-rub"></i>															</span>
