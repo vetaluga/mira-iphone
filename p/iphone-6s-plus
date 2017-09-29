@@ -1,17 +1,17 @@
 <div class="content-tabs clearfix">
 	<div model-alias="iphone-6s-plus" price-alias="zamena-displeya">
 		<span class="left">
-				<span class="service_name">Замена дисплея (оригинал)</span>
+				<span class="service_name">Замена дисплея</span>
 		</span>
-		<span class="right" amount="5600" sale_amount="">
-													5600<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="7200" sale_amount="">
+													7200<i class="fa fa-rub"></i>															</span>
 	</div>
 	<div model-alias="iphone-6s-plus" price-alias="zamena-akkumulyatora">
 		<span class="left">
 				<span class="service_name">Замена аккумулятора</span>
 		</span>
-		<span class="right" amount="600" sale_amount="">
-													600<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="1300" sale_amount="">
+													1300<i class="fa fa-rub"></i>															</span>
 	</div>
 	<div model-alias="iphone-6s-plus" price-alias="zamena-sluhovogo-dinamika">
 		<span class="left">
@@ -66,8 +66,8 @@
 		<span class="left">
 				<span class="service_name">Замена основной камеры</span>
 		</span>
-		<span class="right" amount=800 sale_amount="">
-													800<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="1600" sale_amount="">
+													1600<i class="fa fa-rub"></i>															</span>
 	</div>
 	<div model-alias="iphone-6s-plus" price-alias="zamena-perednej-kamery">
 		<span class="left">
@@ -111,8 +111,8 @@
 		<span class="left">
 				<span class="service_name">Наклеить защитное стекло <span class="brackets">(доп. услуга)</span></span>
 		</span>
-		<span class="right" amount="250" sale_amount="">
-													250<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="99" sale_amount="">
+													99<i class="fa fa-rub"></i>															</span>
 
 	</div>
 	<div model-alias="iphone-6s-plus" price-alias="pajka-slozhnyj-remont">

@@ -1,17 +1,17 @@
 <div class="content-tabs clearfix">
 	<div model-alias="iphone-se" price-alias="zamena-displeya">
 		<span class="left">
-				<span class="service_name">Замена дисплея (оригинал) </span>
+				<span class="service_name">Замена дисплея</span>
 		</span>
-		<span class="right" amount="1600" sale_amount="">
-													1600<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="2000" sale_amount="">
+													2000<i class="fa fa-rub"></i>															</span>
 	</div>
 	<div model-alias="iphone-se" price-alias="zamena-akkumulyatora">
 		<span class="left">
 				<span class="service_name">Замена аккумулятора</span>
 		</span>
-		<span class="right" amount="500" sale_amount="">
-													500<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="1300" sale_amount="">
+													1300<i class="fa fa-rub"></i>															</span>
 	</div>
 	<div model-alias="iphone-se" price-alias="zamena-sluhovogo-dinamika">
 		<span class="left">
@@ -24,8 +24,8 @@
 		<span class="left">
 				<span class="service_name">Замена металлического корпуса</span>
 		</span>
-		<span class="right" amount="1550" sale_amount="">
-													1550<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="1750" sale_amount="">
+													1750<i class="fa fa-rub"></i>															</span>
 	</div>
 	<div model-alias="iphone-se" price-alias="zamena-knopki-home-domoj">
 		<span class="left">
@@ -111,8 +111,8 @@
 		<span class="left">
 				<span class="service_name">Наклеить защитное стекло <span class="brackets">(доп. услуга)</span></span>
 		</span>
-		<span class="right" amount="250" sale_amount="">
-													250<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="99" sale_amount="">
+													99<i class="fa fa-rub"></i>															</span>
 
 	</div>
 	<div model-alias="iphone-se" price-alias="pajka-slozhnyj-remont">

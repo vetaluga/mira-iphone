@@ -1,17 +1,17 @@
 <div class="content-tabs clearfix">
 	<div model-alias="iphone-7" price-alias="zamena-displeya">
 		<span class="left">
-				<span class="service_name">Замена дисплея (оригинал)</span>
+				<span class="service_name">Замена дисплея</span>
 		</span>
-		<span class="right" amount="6100" sale_amount="">
-													6100<i class="fa fa-rub"></i>															</span>
+		<span class="right" amount="12500" sale_amount="">
+													12500<i class="fa fa-rub"></i>															</span>
 	</div>
 	<div model-alias="iphone-7" price-alias="zamena-akkumulyatora">
 		<span class="left">
 				<span class="service_name">Замена аккумулятора</span>
 		</span>
-		<span class="right" amount="600" sale_amount="">
-				Под заказ						</span>
+		<span class="right" amount="0" sale_amount="">
+				Под заказ							</span>
 
 	</div>
 	<div model-alias="iphone-7" price-alias="zamena-sluhovogo-dinamika">
@@ -74,7 +74,7 @@
 		<span class="left">
 				<span class="service_name">Замена основной камеры</span>
 		</span>
-		<span class="right" amount="900" sale_amount="">
+		<span class="right" amount="0" sale_amount="">
 				Под заказ							</span>
 
 	</div>
@@ -82,7 +82,7 @@
 		<span class="left">
 				<span class="service_name">Замена передней камеры</span>
 		</span>
-		<span class="right" amount="700" sale_amount="">
+		<span class="right" amount="0" sale_amount="">
 				Под заказ							</span>
 
 	</div>
@@ -124,7 +124,7 @@
 		<span class="left">
 				<span class="service_name">Наклеить защитное стекло <span class="brackets">(доп. услуга)</span></span>
 		</span>
-		<span class="right" amount="0" sale_amount="">
+		<span class="right" amount="99" sale_amount="">
 				Под заказ							</span>
 
 	</div>
